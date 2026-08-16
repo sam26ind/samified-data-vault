@@ -1,0 +1,1607 @@
+[
+  {
+    "id": "9_m_1_01",
+    "chapterName": "Number Systems",
+    "questionText": "Rationalize the denominator of 1 / √2.",
+    "type": "multipleChoice",
+    "options": ["√2", "√2 / 2", "2", "1 / 2"],
+    "exactAnswer": "√2 / 2",
+    "explanationSteps": [
+      "Step 1: The given expression is 1 / √2. Having a root in the denominator is mathematically 'unstable'.",
+      "Step 2: To rationalize, multiply both the numerator and the denominator by √2.",
+      "Step 3: Numerator becomes: 1 × √2 = √2.",
+      "Step 4: Denominator becomes: √2 × √2 = 2.",
+      "Step 5: The final rationalized expression is √2 / 2."
+    ]
+  },
+  {
+    "id": "9_m_2_01",
+    "chapterName": "Polynomials",
+    "questionText": "What is the degree of a non-zero constant polynomial (e.g., p(x) = 7)?",
+    "type": "multipleChoice",
+    "options": ["0", "1", "Any real number", "Not defined"],
+    "exactAnswer": "0",
+    "explanationSteps": [
+      "Step 1: A constant polynomial consists of a number without any visible variables, like p(x) = 7.",
+      "Step 2: However, we can write 7 as 7 × 1.",
+      "Step 3: By the laws of exponents, any variable to the power of 0 equals 1 (e.g., x⁰ = 1).",
+      "Step 4: Therefore, p(x) = 7x⁰.",
+      "Step 5: The highest power of the variable is 0, making the degree of a constant polynomial 0."
+    ]
+  },
+  {
+    "id": "9_m_3_01",
+    "chapterName": "Coordinate Geometry",
+    "questionText": "The point at which the horizontal x-axis and the vertical y-axis intersect is called the:",
+    "type": "multipleChoice",
+    "options": ["Abscissa", "Ordinate", "Origin", "Quadrant"],
+    "exactAnswer": "Origin",
+    "explanationSteps": [
+      "Step 1: The Cartesian plane is formed by two perpendicular number lines.",
+      "Step 2: The horizontal line is the x-axis, and the vertical line is the y-axis.",
+      "Step 3: The exact center point where they cross each other is defined as the Origin.",
+      "Step 4: The coordinates for the Origin are always (0, 0)."
+    ]
+  },
+  {
+    "id": "9_m_4_01",
+    "chapterName": "Linear Equations in Two Variables",
+    "questionText": "The equation y = 3x + 5 represents a straight line. How many solutions does this equation have?",
+    "type": "multipleChoice",
+    "options": ["A unique solution", "Exactly two solutions", "Infinitely many solutions", "No solution"],
+    "exactAnswer": "Infinitely many solutions",
+    "explanationSteps": [
+      "Step 1: A linear equation in two variables (x and y) forms a continuous straight line on a graph.",
+      "Step 2: A line is constructed from an infinite number of individual points.",
+      "Step 3: Every single point (x, y) that lies on this line is a valid solution to the equation.",
+      "Step 4: Because the line stretches infinitely in both directions, it has infinitely many solutions."
+    ]
+  },
+  {
+    "id": "9_m_5_01",
+    "chapterName": "Lines and Angles",
+    "questionText": "If two interior angles on the same side of a transversal intersecting two parallel lines are in the ratio 2:3, what is the measure of the larger angle?",
+    "type": "multipleChoice",
+    "options": ["72°", "108°", "54°", "36°"],
+    "exactAnswer": "108°",
+    "explanationSteps": [
+      "Step 1: Co-interior angles (interior angles on the same side of a transversal) are supplementary. This means they add up to 180°.",
+      "Step 2: Let the two angles be 2x and 3x.",
+      "Step 3: Set up the equation: 2x + 3x = 180°.",
+      "Step 4: Combine terms: 5x = 180°, so x = 36°.",
+      "Step 5: The larger angle is 3x. Calculate: 3 × 36° = 108°."
+    ]
+  },
+  {
+    "id": "9_m_6_01",
+    "chapterName": "Triangles",
+    "questionText": "In triangle ABC, if sides AB = AC and angle B is 50°, what is the measure of angle C?",
+    "type": "multipleChoice",
+    "options": ["40°", "50°", "80°", "130°"],
+    "exactAnswer": "50°",
+    "explanationSteps": [
+      "Step 1: The problem states that two sides of the triangle are equal (AB = AC). This makes it an isosceles triangle.",
+      "Step 2: A fundamental theorem of geometry states that angles opposite to equal sides of a triangle are also equal.",
+      "Step 3: Angle C is opposite to side AB, and Angle B is opposite to side AC.",
+      "Step 4: Therefore, Angle C = Angle B.",
+      "Step 5: Since Angle B = 50°, Angle C must also be 50°."
+    ]
+  },
+  {
+    "id": "9_m_7_01",
+    "chapterName": "Quadrilaterals",
+    "questionText": "Which of the following statements is NOT mathematically true for a parallelogram?",
+    "type": "multipleChoice",
+    "options": ["Opposite sides are equal", "Opposite angles are equal", "Diagonals bisect each other", "Diagonals are always equal"],
+    "exactAnswer": "Diagonals are always equal",
+    "explanationSteps": [
+      "Step 1: In a parallelogram, opposite sides are always parallel and equal in length.",
+      "Step 2: Opposite angles are always equal to each other.",
+      "Step 3: The diagonals will always cut each other exactly in half (bisect).",
+      "Step 4: However, the diagonals are ONLY equal if the parallelogram is a rectangle or a square. In a standard slanted parallelogram, one diagonal is longer than the other."
+    ]
+  },
+  {
+    "id": "9_m_8_01",
+    "chapterName": "Circles",
+    "questionText": "The longest chord that can be drawn inside a circle is known as its:",
+    "type": "multipleChoice",
+    "options": ["Radius", "Secant", "Diameter", "Tangent"],
+    "exactAnswer": "Diameter",
+    "explanationSteps": [
+      "Step 1: A chord is a line segment whose endpoints lie on the edge of the circle.",
+      "Step 2: A secant is a line that cuts through the circle, and a tangent touches it at only one point.",
+      "Step 3: As a chord moves closer to the center of the circle, it gets longer.",
+      "Step 4: The chord that passes exactly through the center point is the longest possible chord, which is mathematically defined as the Diameter."
+    ]
+  },
+  {
+    "id": "9_m_9_01",
+    "chapterName": "Heron Formula",
+    "questionText": "What is the semi-perimeter (s) of a triangle with side lengths of 10 cm, 14 cm, and 16 cm?",
+    "type": "multipleChoice",
+    "options": ["20 cm", "40 cm", "15 cm", "25 cm"],
+    "exactAnswer": "20 cm",
+    "explanationSteps": [
+      "Step 1: Heron's formula requires the semi-perimeter (s), which is exactly half of the total perimeter.",
+      "Step 2: The formula is s = (a + b + c) / 2.",
+      "Step 3: Add the three sides together: 10 + 14 + 16 = 40 cm (This is the total perimeter).",
+      "Step 4: Divide the total perimeter by 2: 40 / 2 = 20 cm."
+    ]
+  },
+  {
+    "id": "9_m_10_01",
+    "chapterName": "Surface Areas and Volumes",
+    "questionText": "The total surface area of a cube is 96 cm². What is the volume of the cube?",
+    "type": "multipleChoice",
+    "options": ["8 cm³", "64 cm³", "512 cm³", "27 cm³"],
+    "exactAnswer": "64 cm³",
+    "explanationSteps": [
+      "Step 1: The Total Surface Area (TSA) formula for a cube is 6a², where 'a' is the edge length.",
+      "Step 2: Set up the equation: 6a² = 96.",
+      "Step 3: Divide both sides by 6 to isolate a²: a² = 16.",
+      "Step 4: Take the square root to find the edge length: a = 4 cm.",
+      "Step 5: The volume formula for a cube is a³. Calculate: 4³ = 4 × 4 × 4 = 64 cm³."
+    ]
+  },
+  {
+    "id": "9_m_11_01",
+    "chapterName": "Statistics",
+    "questionText": "What is the class mark of the frequency class interval 130 - 150?",
+    "type": "multipleChoice",
+    "options": ["130", "140", "150", "135"],
+    "exactAnswer": "140",
+    "explanationSteps": [
+      "Step 1: The 'class mark' is simply the exact midpoint of a given class interval.",
+      "Step 2: The formula to find it is: Class Mark = (Lower Limit + Upper Limit) / 2.",
+      "Step 3: Identify the limits: Lower limit is 130, Upper limit is 150.",
+      "Step 4: Add them together: 130 + 150 = 280.",
+      "Step 5: Divide by 2: 280 / 2 = 140."
+    ]
+  },
+
+    {
+      "id": "9_m_1_1",
+      "chapterName": "Number Systems",
+      "questionText": "Which of the following is an irrational number?",
+      "type": "multipleChoice",
+      "options": [
+        "0.25",
+        "√2",
+        "−7/5",
+        "0.333..."
+      ],
+      "exactAnswer": "√2",
+      "explanationSteps": [
+        "Step 1: A rational number can be written in the form p/q, where p and q are integers and q ≠ 0.",
+        "Step 2: √2 cannot be expressed as p/q, so its decimal expansion is non-terminating and non-repeating.",
+        "Step 3: Therefore, √2 is the irrational number."
+      ]
+    },
+    {
+      "id": "9_m_1_2",
+      "chapterName": "Number Systems",
+      "questionText": "Which of the following is a rational number?",
+      "type": "multipleChoice",
+      "options": [
+        "√5",
+        "π",
+        "0.727272...",
+        "√3"
+      ],
+      "exactAnswer": "0.727272...",
+      "explanationSteps": [
+        "Step 1: A rational number has a terminating or recurring decimal expansion.",
+        "Step 2: 0.727272... has the recurring block 72.",
+        "Step 3: Therefore, 0.727272... is rational."
+      ]
+    },
+    {
+      "id": "9_m_1_3",
+      "chapterName": "Number Systems",
+      "questionText": "What is the decimal form of 13/8?",
+      "type": "multipleChoice",
+      "options": [
+        "1.625",
+        "1.525",
+        "1.875",
+        "1.6250..."
+      ],
+      "exactAnswer": "1.625",
+      "explanationSteps": [
+        "Step 1: Divide 13 by 8.",
+        "Step 2: 8 goes into 13 as 1, leaving 5; continuing the division gives 0.625.",
+        "Step 3: Hence, 13/8 = 1.625."
+      ]
+    },
+    {
+      "id": "9_m_1_4",
+      "chapterName": "Number Systems",
+      "questionText": "Which fraction has a terminating decimal expansion?",
+      "type": "multipleChoice",
+      "options": [
+        "7/12",
+        "11/15",
+        "9/40",
+        "13/18"
+      ],
+      "exactAnswer": "9/40",
+      "explanationSteps": [
+        "Step 1: A fraction in lowest form has a terminating decimal only when its denominator has no prime factors other than 2 and 5.",
+        "Step 2: 40 = 2³ × 5, so it satisfies this condition.",
+        "Step 3: Therefore, 9/40 has a terminating decimal expansion."
+      ]
+    },
+    {
+      "id": "9_m_1_5",
+      "chapterName": "Number Systems",
+      "questionText": "Which of the following is a non-terminating recurring decimal?",
+      "type": "multipleChoice",
+      "options": [
+        "0.125",
+        "2.5",
+        "0.454545...",
+        "3.14159"
+      ],
+      "exactAnswer": "0.454545...",
+      "explanationSteps": [
+        "Step 1: A recurring decimal has a digit or group of digits that repeats forever.",
+        "Step 2: In 0.454545..., the block 45 repeats continuously.",
+        "Step 3: Therefore, 0.454545... is a non-terminating recurring decimal."
+      ]
+    },
+    {
+      "id": "9_m_1_6",
+      "chapterName": "Number Systems",
+      "questionText": "Which of the following is equal to 0.666...?",
+      "type": "multipleChoice",
+      "options": [
+        "1/2",
+        "2/3",
+        "3/5",
+        "3/4"
+      ],
+      "exactAnswer": "2/3",
+      "explanationSteps": [
+        "Step 1: Let x = 0.666....",
+        "Step 2: Multiplying by 10 gives 10x = 6.666.... Subtracting x gives 9x = 6.",
+        "Step 3: Therefore, x = 6/9 = 2/3."
+      ]
+    },
+    {
+      "id": "9_m_1_7",
+      "chapterName": "Number Systems",
+      "questionText": "Which statement is true about √3?",
+      "type": "multipleChoice",
+      "options": [
+        "√3 is a natural number",
+        "√3 is an integer",
+        "√3 is rational",
+        "√3 is irrational"
+      ],
+      "exactAnswer": "√3 is irrational",
+      "explanationSteps": [
+        "Step 1: 3 is not a perfect square.",
+        "Step 2: The square root of a non-perfect square is irrational.",
+        "Step 3: Therefore, √3 is irrational."
+      ]
+    },
+    {
+      "id": "9_m_1_8",
+      "chapterName": "Number Systems",
+      "questionText": "Between which two consecutive integers does √20 lie?",
+      "type": "multipleChoice",
+      "options": [
+        "2 and 3",
+        "3 and 4",
+        "4 and 5",
+        "5 and 6"
+      ],
+      "exactAnswer": "4 and 5",
+      "explanationSteps": [
+        "Step 1: 4² = 16 and 5² = 25.",
+        "Step 2: Since 16 < 20 < 25, taking positive square roots gives 4 < √20 < 5.",
+        "Step 3: Hence, √20 lies between 4 and 5."
+      ]
+    },
+    {
+      "id": "9_m_1_9",
+      "chapterName": "Number Systems",
+      "questionText": "Which number is irrational?",
+      "type": "multipleChoice",
+      "options": [
+        "√49",
+        "√64",
+        "√81",
+        "√50"
+      ],
+      "exactAnswer": "√50",
+      "explanationSteps": [
+        "Step 1: √49 = 7, √64 = 8, and √81 = 9, so these are integers and hence rational.",
+        "Step 2: 50 is not a perfect square, so √50 cannot be written as a rational number.",
+        "Step 3: Therefore, √50 is irrational."
+      ]
+    },
+    {
+      "id": "9_m_1_10",
+      "chapterName": "Number Systems",
+      "questionText": "What is the value of (2³)²?",
+      "type": "multipleChoice",
+      "options": [
+        "16",
+        "32",
+        "64",
+        "128"
+      ],
+      "exactAnswer": "64",
+      "explanationSteps": [
+        "Step 1: Use the law (aᵐ)ⁿ = aᵐⁿ.",
+        "Step 2: (2³)² = 2^(3×2) = 2⁶.",
+        "Step 3: 2⁶ = 64."
+      ]
+    },
+    {
+      "id": "9_m_1_11",
+      "chapterName": "Number Systems",
+      "questionText": "What is the value of 5⁰?",
+      "type": "multipleChoice",
+      "options": [
+        "0",
+        "1",
+        "5",
+        "−1"
+      ],
+      "exactAnswer": "1",
+      "explanationSteps": [
+        "Step 1: For any non-zero number a, the zero exponent rule says a⁰ = 1.",
+        "Step 2: Since 5 is non-zero, the rule applies.",
+        "Step 3: Therefore, 5⁰ = 1."
+      ]
+    },
+    {
+      "id": "9_m_1_12",
+      "chapterName": "Number Systems",
+      "questionText": "Simplify 2⁵ × 2³.",
+      "type": "multipleChoice",
+      "options": [
+        "2⁸",
+        "2¹⁵",
+        "4⁸",
+        "2²"
+      ],
+      "exactAnswer": "2⁸",
+      "explanationSteps": [
+        "Step 1: When multiplying powers with the same base, add the exponents.",
+        "Step 2: 2⁵ × 2³ = 2^(5+3).",
+        "Step 3: Therefore, the answer is 2⁸."
+      ]
+    },
+    {
+      "id": "9_m_1_13",
+      "chapterName": "Number Systems",
+      "questionText": "Simplify 7⁶ ÷ 7².",
+      "type": "multipleChoice",
+      "options": [
+        "7³",
+        "7⁴",
+        "7⁸",
+        "7¹²"
+      ],
+      "exactAnswer": "7⁴",
+      "explanationSteps": [
+        "Step 1: When dividing powers with the same base, subtract the exponents.",
+        "Step 2: 7⁶ ÷ 7² = 7^(6−2).",
+        "Step 3: Therefore, the answer is 7⁴."
+      ]
+    },
+    {
+      "id": "9_m_1_14",
+      "chapterName": "Number Systems",
+      "questionText": "Which expression is equal to 3⁻²?",
+      "type": "multipleChoice",
+      "options": [
+        "−9",
+        "9",
+        "1/9",
+        "1/6"
+      ],
+      "exactAnswer": "1/9",
+      "explanationSteps": [
+        "Step 1: A negative exponent means the reciprocal of the corresponding positive power.",
+        "Step 2: 3⁻² = 1/3².",
+        "Step 3: Since 3² = 9, the answer is 1/9."
+      ]
+    },
+    {
+      "id": "9_m_1_15",
+      "chapterName": "Number Systems",
+      "questionText": "What is the value of (1/2)⁻³?",
+      "type": "multipleChoice",
+      "options": [
+        "1/8",
+        "2",
+        "4",
+        "8"
+      ],
+      "exactAnswer": "8",
+      "explanationSteps": [
+        "Step 1: A negative exponent takes the reciprocal of the base.",
+        "Step 2: (1/2)⁻³ = (2/1)³ = 2³.",
+        "Step 3: Therefore, the value is 8."
+      ]
+    },
+    {
+      "id": "9_m_1_16",
+      "chapterName": "Number Systems",
+      "questionText": "Which of the following is equal to √18 in simplest form?",
+      "type": "multipleChoice",
+      "options": [
+        "3√2",
+        "2√3",
+        "9√2",
+        "6√3"
+      ],
+      "exactAnswer": "3√2",
+      "explanationSteps": [
+        "Step 1: Factor 18 as 9 × 2.",
+        "Step 2: √18 = √(9 × 2) = √9 × √2 = 3√2.",
+        "Step 3: Therefore, √18 in simplest form is 3√2."
+      ]
+    },
+    {
+      "id": "9_m_1_17",
+      "chapterName": "Number Systems",
+      "questionText": "Which of the following is equal to √12?",
+      "type": "multipleChoice",
+      "options": [
+        "2√3",
+        "3√2",
+        "4√3",
+        "6√2"
+      ],
+      "exactAnswer": "2√3",
+      "explanationSteps": [
+        "Step 1: Write 12 as 4 × 3.",
+        "Step 2: √12 = √4 × √3 = 2√3.",
+        "Step 3: Hence, √12 = 2√3."
+      ]
+    },
+    {
+      "id": "9_m_1_18",
+      "chapterName": "Number Systems",
+      "questionText": "Simplify √5 × √20.",
+      "type": "multipleChoice",
+      "options": [
+        "5",
+        "10",
+        "20",
+        "25"
+      ],
+      "exactAnswer": "10",
+      "explanationSteps": [
+        "Step 1: Use √a × √b = √(ab) for non-negative a and b.",
+        "Step 2: √5 × √20 = √100.",
+        "Step 3: √100 = 10, so the answer is 10."
+      ]
+    },
+    {
+      "id": "9_m_1_19",
+      "chapterName": "Number Systems",
+      "questionText": "What is the value of √81 ÷ √9?",
+      "type": "multipleChoice",
+      "options": [
+        "2",
+        "3",
+        "6",
+        "9"
+      ],
+      "exactAnswer": "3",
+      "explanationSteps": [
+        "Step 1: √81 = 9 and √9 = 3.",
+        "Step 2: Substitute these values into the expression.",
+        "Step 3: 9 ÷ 3 = 3."
+      ]
+    },
+    {
+      "id": "9_m_1_20",
+      "chapterName": "Number Systems",
+      "questionText": "Which statement about rational numbers is correct?",
+      "type": "multipleChoice",
+      "options": [
+        "The sum of two rational numbers is always irrational",
+        "The product of two rational numbers is always rational",
+        "A rational number cannot be negative",
+        "Every rational number has a non-terminating decimal"
+      ],
+      "exactAnswer": "The product of two rational numbers is always rational",
+      "explanationSteps": [
+        "Step 1: Rational numbers can be written as fractions p/q with q ≠ 0.",
+        "Step 2: The product of p/q and r/s is (pr)/(qs), which is again a fraction of integers with non-zero denominator.",
+        "Step 3: Therefore, the product of two rational numbers is always rational."
+      ]
+    },
+    {
+      "id": "9_m_1_21",
+      "chapterName": "Number Systems",
+      "questionText": "Which number lies between 2 and 3 and is irrational?",
+      "type": "multipleChoice",
+      "options": [
+        "5/2",
+        "√5",
+        "8/3",
+        "2.75"
+      ],
+      "exactAnswer": "√5",
+      "explanationSteps": [
+        "Step 1: 2² = 4 and 3² = 9, so 2 < √5 < 3.",
+        "Step 2: 5 is not a perfect square, so √5 is irrational.",
+        "Step 3: Therefore, √5 is the required number."
+      ]
+    },
+    {
+      "id": "9_m_1_22",
+      "chapterName": "Number Systems",
+      "questionText": "If x = √2 + 3, which type of number is x?",
+      "type": "multipleChoice",
+      "options": [
+        "Natural number",
+        "Integer",
+        "Rational number",
+        "Irrational number"
+      ],
+      "exactAnswer": "Irrational number",
+      "explanationSteps": [
+        "Step 1: √2 is irrational.",
+        "Step 2: Adding a rational number such as 3 to an irrational number gives an irrational number.",
+        "Step 3: Therefore, x = √2 + 3 is irrational."
+      ]
+    },
+    {
+      "id": "9_m_1_23",
+      "chapterName": "Number Systems",
+      "questionText": "What is the rationalising factor of √7?",
+      "type": "multipleChoice",
+      "options": [
+        "√7",
+        "7",
+        "1/√7",
+        "−√7"
+      ],
+      "exactAnswer": "√7",
+      "explanationSteps": [
+        "Step 1: A rationalising factor should make the product a rational number.",
+        "Step 2: √7 × √7 = 7.",
+        "Step 3: Since 7 is rational, √7 is a rationalising factor of √7."
+      ]
+    },
+    {
+      "id": "9_m_1_24",
+      "chapterName": "Number Systems",
+      "questionText": "Rationalise the denominator of 1/√3. What is the result?",
+      "type": "multipleChoice",
+      "options": [
+        "√3/3",
+        "3/√3",
+        "√3",
+        "1/3"
+      ],
+      "exactAnswer": "√3/3",
+      "explanationSteps": [
+        "Step 1: Multiply the numerator and denominator by √3.",
+        "Step 2: (1/√3) × (√3/√3) = √3/3.",
+        "Step 3: Therefore, the rationalised form is √3/3."
+      ]
+    },
+    {
+      "id": "9_m_1_25",
+      "chapterName": "Number Systems",
+      "questionText": "Which of the following has a non-terminating and non-recurring decimal expansion?",
+      "type": "multipleChoice",
+      "options": [
+        "7/8",
+        "11/20",
+        "√7",
+        "13/25"
+      ],
+      "exactAnswer": "√7",
+      "explanationSteps": [
+        "Step 1: Fractions such as 7/8, 11/20, and 13/25 are rational numbers and have terminating decimals.",
+        "Step 2: √7 is irrational because 7 is not a perfect square.",
+        "Step 3: Hence, √7 has a non-terminating and non-recurring decimal expansion."
+      ]
+    },
+    {
+      "id": "9_m_1_26",
+      "chapterName": "Number Systems",
+      "questionText": "Which of the following is equal to 2√3 × 3√3?",
+      "type": "multipleChoice",
+      "options": [
+        "6√3",
+        "9",
+        "12",
+        "18"
+      ],
+      "exactAnswer": "18",
+      "explanationSteps": [
+        "Step 1: Multiply the numerical parts: 2 × 3 = 6.",
+        "Step 2: Multiply the radicals: √3 × √3 = 3.",
+        "Step 3: Therefore, 6 × 3 = 18."
+      ]
+    },
+    {
+      "id": "9_m_1_27",
+      "chapterName": "Number Systems",
+      "questionText": "Simplify (3 + √5)(3 − √5).",
+      "type": "multipleChoice",
+      "options": [
+        "4",
+        "9",
+        "5",
+        "14"
+      ],
+      "exactAnswer": "4",
+      "explanationSteps": [
+        "Step 1: Use the identity (a + b)(a − b) = a² − b².",
+        "Step 2: Here a = 3 and b = √5, so the expression becomes 3² − (√5)².",
+        "Step 3: 9 − 5 = 4."
+      ]
+    },
+    {
+      "id": "9_m_1_28",
+      "chapterName": "Number Systems",
+      "questionText": "Which of the following numbers lies between √2 and √3?",
+      "type": "multipleChoice",
+      "options": [
+        "1.3",
+        "1.5",
+        "1.8",
+        "2.1"
+      ],
+      "exactAnswer": "1.5",
+      "explanationSteps": [
+        "Step 1: √2 is approximately 1.414 and √3 is approximately 1.732.",
+        "Step 2: 1.5 is greater than 1.414 and less than 1.732.",
+        "Step 3: Therefore, 1.5 lies between √2 and √3."
+      ]
+    },
+    {
+      "id": "9_m_1_29",
+      "chapterName": "Number Systems",
+      "questionText": "If a = 2 and b = 3, what is the value of a⁻²b³?",
+      "type": "multipleChoice",
+      "options": [
+        "9/4",
+        "27/4",
+        "4/27",
+        "27/2"
+      ],
+      "exactAnswer": "27/4",
+      "explanationSteps": [
+        "Step 1: Substitute a = 2 and b = 3 to get 2⁻² × 3³.",
+        "Step 2: 2⁻² = 1/4 and 3³ = 27.",
+        "Step 3: Therefore, (1/4) × 27 = 27/4."
+      ]
+    },
+    {
+      "id": "9_m_1_30",
+      "chapterName": "Number Systems",
+      "questionText": "Which of the following statements is true?",
+      "type": "multipleChoice",
+      "options": [
+        "Every irrational number is an integer",
+        "The sum of two irrational numbers is always irrational",
+        "The product of a non-zero rational number and an irrational number is irrational",
+        "Every real number is rational"
+      ],
+      "exactAnswer": "The product of a non-zero rational number and an irrational number is irrational",
+      "explanationSteps": [
+        "Step 1: Let r be a non-zero rational number and x be irrational.",
+        "Step 2: If rx were rational, then dividing by the non-zero rational number r would make x rational, which is a contradiction.",
+        "Step 3: Therefore, rx must be irrational."
+      ]
+    }
+  ,
+
+    {
+      "id": "9_m_02_01",
+      "chapterName": "Polynomials",
+      "questionText": "Which of the following is a polynomial in one variable?",
+      "type": "multipleChoice",
+      "options": [
+        "x² + √x + 1",
+        "3x² - 2x + 5",
+        "1/x + 2x - 3",
+        "x² + 2/x + 1"
+      ],
+      "exactAnswer": "3x² - 2x + 5",
+      "explanationSteps": [
+        "Step 1: In a polynomial, every power of the variable must be a whole number like 0, 1, 2, 3 and so on.",
+        "Step 2: √x means x raised to the power 1/2, and 1/x or 2/x means x raised to the power -1 — both are not allowed in a polynomial.",
+        "Step 3: Only 3x² - 2x + 5 has whole number powers (2, 1, 0), so it is the correct polynomial."
+      ]
+    },
+    {
+      "id": "9_m_02_02",
+      "chapterName": "Polynomials",
+      "questionText": "Which of the following is NOT a polynomial?",
+      "type": "multipleChoice",
+      "options": [
+        "5x³ - 4x + 7",
+        "√2 x² + 3",
+        "2x^(-1) + 5",
+        "x + 1"
+      ],
+      "exactAnswer": "2x^(-1) + 5",
+      "explanationSteps": [
+        "Step 1: A polynomial can only have whole number powers of x, such as 0, 1, 2, 3...",
+        "Step 2: In 2x^(-1) + 5, the power of x is -1, which is a negative number, not a whole number.",
+        "Step 3: Since -1 is not allowed as a power, 2x^(-1) + 5 is not a polynomial."
+      ]
+    },
+    {
+      "id": "9_m_02_03",
+      "chapterName": "Polynomials",
+      "questionText": "The polynomial 4x³ - 3x² + 7 has how many terms?",
+      "type": "multipleChoice",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "exactAnswer": "3",
+      "explanationSteps": [
+        "Step 1: A 'term' is a part of the polynomial separated by a + or - sign.",
+        "Step 2: Here the terms are 4x³, -3x², and 7.",
+        "Step 3: Counting them, there are 3 terms in total."
+      ]
+    },
+    {
+      "id": "9_m_02_04",
+      "chapterName": "Polynomials",
+      "questionText": "What is the coefficient of x² in the polynomial 5x³ - 7x² + 2x - 9?",
+      "type": "multipleChoice",
+      "options": [
+        "5",
+        "-7",
+        "2",
+        "-9"
+      ],
+      "exactAnswer": "-7",
+      "explanationSteps": [
+        "Step 1: The coefficient of a term is the number multiplied with the variable part.",
+        "Step 2: Look for the term that contains x², which is -7x².",
+        "Step 3: The number attached to x² is -7, so the coefficient of x² is -7."
+      ]
+    },
+    {
+      "id": "9_m_02_05",
+      "chapterName": "Polynomials",
+      "questionText": "Which of these is a binomial?",
+      "type": "multipleChoice",
+      "options": [
+        "x² + 3x + 5",
+        "7",
+        "x³ - 2x",
+        "x⁴ + x³ + x² + 1"
+      ],
+      "exactAnswer": "x³ - 2x",
+      "explanationSteps": [
+        "Step 1: A binomial is a polynomial with exactly 2 terms.",
+        "Step 2: Check each option: x² + 3x + 5 has 3 terms, 7 has 1 term, x³ - 2x has 2 terms, and x⁴ + x³ + x² + 1 has 4 terms.",
+        "Step 3: Only x³ - 2x has exactly 2 terms, so it is the binomial."
+      ]
+    },
+    {
+      "id": "9_m_02_06",
+      "chapterName": "Polynomials",
+      "questionText": "Which of the following is a constant polynomial?",
+      "type": "multipleChoice",
+      "options": [
+        "7",
+        "3x + 1",
+        "x² - 4",
+        "2x³"
+      ],
+      "exactAnswer": "7",
+      "explanationSteps": [
+        "Step 1: A constant polynomial is a polynomial that has no variable at all, or where the variable's power is 0.",
+        "Step 2: The number 7 does not depend on x at all — its value stays 7 no matter what x is.",
+        "Step 3: So 7 is the constant polynomial among the options."
+      ]
+    },
+    {
+      "id": "9_m_02_07",
+      "chapterName": "Polynomials",
+      "questionText": "What is the degree of the polynomial 7x⁵ - 3x³ + x - 9?",
+      "type": "multipleChoice",
+      "options": [
+        "3",
+        "5",
+        "9",
+        "1"
+      ],
+      "exactAnswer": "5",
+      "explanationSteps": [
+        "Step 1: The degree of a polynomial is the highest power of the variable present in it.",
+        "Step 2: In 7x⁵ - 3x³ + x - 9, the powers of x used are 5, 3, 1, and 0.",
+        "Step 3: The highest of these powers is 5, so the degree of the polynomial is 5."
+      ]
+    },
+    {
+      "id": "9_m_02_08",
+      "chapterName": "Polynomials",
+      "questionText": "A polynomial of degree 1 is called a:",
+      "type": "multipleChoice",
+      "options": [
+        "Constant polynomial",
+        "Linear polynomial",
+        "Quadratic polynomial",
+        "Cubic polynomial"
+      ],
+      "exactAnswer": "Linear polynomial",
+      "explanationSteps": [
+        "Step 1: The name of a polynomial depends on its degree, which is the highest power of the variable.",
+        "Step 2: Degree 0 is constant, degree 1 is linear, degree 2 is quadratic, and degree 3 is cubic.",
+        "Step 3: Since the degree here is 1, it is called a linear polynomial."
+      ]
+    },
+    {
+      "id": "9_m_02_09",
+      "chapterName": "Polynomials",
+      "questionText": "A polynomial of degree 2 is called a:",
+      "type": "multipleChoice",
+      "options": [
+        "Linear polynomial",
+        "Quadratic polynomial",
+        "Cubic polynomial",
+        "Biquadratic polynomial"
+      ],
+      "exactAnswer": "Quadratic polynomial",
+      "explanationSteps": [
+        "Step 1: Remember the naming rule: degree 1 = linear, degree 2 = quadratic, degree 3 = cubic.",
+        "Step 2: A polynomial of degree 2 has its highest power of x as x².",
+        "Step 3: So a degree 2 polynomial is called a quadratic polynomial."
+      ]
+    },
+    {
+      "id": "9_m_02_10",
+      "chapterName": "Polynomials",
+      "questionText": "Which of the following is a cubic polynomial?",
+      "type": "multipleChoice",
+      "options": [
+        "2x + 3",
+        "x² - 5x + 6",
+        "x³ - 2x² + x - 1",
+        "7"
+      ],
+      "exactAnswer": "x³ - 2x² + x - 1",
+      "explanationSteps": [
+        "Step 1: A cubic polynomial has degree 3, meaning the highest power of x is 3.",
+        "Step 2: Check each option: 2x + 3 has degree 1, x² - 5x + 6 has degree 2, x³ - 2x² + x - 1 has degree 3, and 7 has degree 0.",
+        "Step 3: Only x³ - 2x² + x - 1 has degree 3, so it is the cubic polynomial."
+      ]
+    },
+    {
+      "id": "9_m_02_11",
+      "chapterName": "Polynomials",
+      "questionText": "What is the degree of a non-zero constant polynomial?",
+      "type": "multipleChoice",
+      "options": [
+        "0",
+        "1",
+        "Undefined",
+        "-1"
+      ],
+      "exactAnswer": "0",
+      "explanationSteps": [
+        "Step 1: A constant polynomial, like 5 or -8, can be written as 5x⁰ since x⁰ = 1.",
+        "Step 2: The power of x here is 0.",
+        "Step 3: So the degree of any non-zero constant polynomial is always 0."
+      ]
+    },
+    {
+      "id": "9_m_02_12",
+      "chapterName": "Polynomials",
+      "questionText": "The degree of the zero polynomial is:",
+      "type": "multipleChoice",
+      "options": [
+        "0",
+        "1",
+        "Not defined",
+        "Cannot say"
+      ],
+      "exactAnswer": "Not defined",
+      "explanationSteps": [
+        "Step 1: The zero polynomial is simply the number 0.",
+        "Step 2: Since 0 can be written with any power of x (0 = 0·x, 0 = 0·x², and so on), there is no single highest power.",
+        "Step 3: Because of this, mathematicians say the degree of the zero polynomial is not defined."
+      ]
+    },
+    {
+      "id": "9_m_02_13",
+      "chapterName": "Polynomials",
+      "questionText": "Which of the following is a linear polynomial in x?",
+      "type": "multipleChoice",
+      "options": [
+        "3x² + 2",
+        "5x - 7",
+        "x³ + x",
+        "4"
+      ],
+      "exactAnswer": "5x - 7",
+      "explanationSteps": [
+        "Step 1: A linear polynomial has degree 1, meaning the highest power of x is exactly 1.",
+        "Step 2: Check the options: 3x² + 2 has degree 2, x³ + x has degree 3, and 4 has degree 0.",
+        "Step 3: Only 5x - 7 has degree 1, so it is the linear polynomial."
+      ]
+    },
+    {
+      "id": "9_m_02_14",
+      "chapterName": "Polynomials",
+      "questionText": "p(x) = 9 - 2x² + 3x is a polynomial of which type?",
+      "type": "multipleChoice",
+      "options": [
+        "Linear",
+        "Quadratic",
+        "Cubic",
+        "Constant"
+      ],
+      "exactAnswer": "Quadratic",
+      "explanationSteps": [
+        "Step 1: Find the highest power of x in the polynomial 9 - 2x² + 3x.",
+        "Step 2: The powers present are 0 (from 9), 2 (from -2x²), and 1 (from 3x); the highest is 2.",
+        "Step 3: A polynomial with degree 2 is called quadratic, so p(x) is a quadratic polynomial."
+      ]
+    },
+    {
+      "id": "9_m_02_15",
+      "chapterName": "Polynomials",
+      "questionText": "In the polynomial p(x) = -3x⁴ + 2x² - x + 8, what is the coefficient of x⁴?",
+      "type": "multipleChoice",
+      "options": [
+        "-3",
+        "2",
+        "-1",
+        "8"
+      ],
+      "exactAnswer": "-3",
+      "explanationSteps": [
+        "Step 1: Look for the term in the polynomial that has x⁴.",
+        "Step 2: That term is -3x⁴.",
+        "Step 3: The number multiplied with x⁴ is -3, so the coefficient of x⁴ is -3."
+      ]
+    },
+    {
+      "id": "9_m_02_16",
+      "chapterName": "Polynomials",
+      "questionText": "How many terms does the polynomial x³ + x² + x + 1 have?",
+      "type": "multipleChoice",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "exactAnswer": "4",
+      "explanationSteps": [
+        "Step 1: Count the parts of the polynomial separated by + or - signs.",
+        "Step 2: The terms are x³, x², x, and 1.",
+        "Step 3: This gives a total of 4 terms."
+      ]
+    },
+    {
+      "id": "9_m_02_17",
+      "chapterName": "Polynomials",
+      "questionText": "What is the constant term in p(x) = 4x² - 9x + 11?",
+      "type": "multipleChoice",
+      "options": [
+        "4",
+        "-9",
+        "11",
+        "0"
+      ],
+      "exactAnswer": "11",
+      "explanationSteps": [
+        "Step 1: The constant term is the term that has no variable attached to it, or where x's power is 0.",
+        "Step 2: In 4x² - 9x + 11, the term 11 has no x with it.",
+        "Step 3: So the constant term is 11."
+      ]
+    },
+    {
+      "id": "9_m_02_18",
+      "chapterName": "Polynomials",
+      "questionText": "Which of these is a trinomial?",
+      "type": "multipleChoice",
+      "options": [
+        "x² + 3",
+        "x³ + x² + x",
+        "5x",
+        "x⁴ - x² + 2x - 1"
+      ],
+      "exactAnswer": "x³ + x² + x",
+      "explanationSteps": [
+        "Step 1: A trinomial is a polynomial that has exactly 3 terms.",
+        "Step 2: Count the terms in each option: x² + 3 has 2 terms, x³ + x² + x has 3 terms, 5x has 1 term, and x⁴ - x² + 2x - 1 has 4 terms.",
+        "Step 3: Only x³ + x² + x has exactly 3 terms, so it is the trinomial."
+      ]
+    },
+    {
+      "id": "9_m_02_19",
+      "chapterName": "Polynomials",
+      "questionText": "If p(x) = x² - 5x + 6, find p(2).",
+      "type": "multipleChoice",
+      "options": [
+        "0",
+        "2",
+        "-2",
+        "4"
+      ],
+      "exactAnswer": "0",
+      "explanationSteps": [
+        "Step 1: To find p(2), replace every x in the polynomial with 2.",
+        "Step 2: p(2) = (2)² - 5(2) + 6 = 4 - 10 + 6.",
+        "Step 3: Adding these gives 4 - 10 + 6 = 0, so p(2) = 0."
+      ]
+    },
+    {
+      "id": "9_m_02_20",
+      "chapterName": "Polynomials",
+      "questionText": "If p(x) = 2x + 3, find p(-1).",
+      "type": "multipleChoice",
+      "options": [
+        "1",
+        "5",
+        "-1",
+        "0"
+      ],
+      "exactAnswer": "1",
+      "explanationSteps": [
+        "Step 1: Substitute x = -1 into the polynomial p(x) = 2x + 3.",
+        "Step 2: p(-1) = 2(-1) + 3 = -2 + 3.",
+        "Step 3: This gives -2 + 3 = 1, so p(-1) = 1."
+      ]
+    },
+    {
+      "id": "9_m_02_21",
+      "chapterName": "Polynomials",
+      "questionText": "If p(x) = x³ - 1, find p(1).",
+      "type": "multipleChoice",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "exactAnswer": "0",
+      "explanationSteps": [
+        "Step 1: Substitute x = 1 into p(x) = x³ - 1.",
+        "Step 2: p(1) = (1)³ - 1 = 1 - 1.",
+        "Step 3: This equals 0, so p(1) = 0."
+      ]
+    },
+    {
+      "id": "9_m_02_22",
+      "chapterName": "Polynomials",
+      "questionText": "If p(x) = 3x² - 2x + 1, find p(0).",
+      "type": "multipleChoice",
+      "options": [
+        "0",
+        "1",
+        "-1",
+        "2"
+      ],
+      "exactAnswer": "1",
+      "explanationSteps": [
+        "Step 1: Substitute x = 0 into p(x) = 3x² - 2x + 1.",
+        "Step 2: p(0) = 3(0)² - 2(0) + 1 = 0 - 0 + 1.",
+        "Step 3: This gives p(0) = 1."
+      ]
+    },
+    {
+      "id": "9_m_02_23",
+      "chapterName": "Polynomials",
+      "questionText": "If p(x) = x² + x + 1, find p(-1).",
+      "type": "multipleChoice",
+      "options": [
+        "1",
+        "0",
+        "2",
+        "-1"
+      ],
+      "exactAnswer": "1",
+      "explanationSteps": [
+        "Step 1: Substitute x = -1 into p(x) = x² + x + 1.",
+        "Step 2: p(-1) = (-1)² + (-1) + 1 = 1 - 1 + 1.",
+        "Step 3: Adding these gives 1, so p(-1) = 1."
+      ]
+    },
+    {
+      "id": "9_m_02_24",
+      "chapterName": "Polynomials",
+      "questionText": "If p(y) = 4y - 5, find the value of p(3).",
+      "type": "multipleChoice",
+      "options": [
+        "7",
+        "12",
+        "17",
+        "5"
+      ],
+      "exactAnswer": "7",
+      "explanationSteps": [
+        "Step 1: Substitute y = 3 into p(y) = 4y - 5.",
+        "Step 2: p(3) = 4(3) - 5 = 12 - 5.",
+        "Step 3: This gives p(3) = 7."
+      ]
+    },
+    {
+      "id": "9_m_02_25",
+      "chapterName": "Polynomials",
+      "questionText": "A zero of the polynomial p(x) is a value of x for which:",
+      "type": "multipleChoice",
+      "options": [
+        "p(x) is maximum",
+        "p(x) = 0",
+        "p(x) is minimum",
+        "p(x) = 1"
+      ],
+      "exactAnswer": "p(x) = 0",
+      "explanationSteps": [
+        "Step 1: The word 'zero' of a polynomial refers to a special input value of x.",
+        "Step 2: This special value makes the polynomial's output become exactly 0 when substituted in.",
+        "Step 3: So a zero of p(x) is any value of x for which p(x) = 0."
+      ]
+    },
+    {
+      "id": "9_m_02_26",
+      "chapterName": "Polynomials",
+      "questionText": "What is the zero of the polynomial p(x) = x - 5?",
+      "type": "multipleChoice",
+      "options": [
+        "5",
+        "-5",
+        "0",
+        "1"
+      ],
+      "exactAnswer": "5",
+      "explanationSteps": [
+        "Step 1: To find the zero, set the polynomial equal to 0: x - 5 = 0.",
+        "Step 2: Solve for x by adding 5 to both sides: x = 5.",
+        "Step 3: So the zero of p(x) = x - 5 is x = 5."
+      ]
+    },
+    {
+      "id": "9_m_02_27",
+      "chapterName": "Polynomials",
+      "questionText": "What is the zero of the linear polynomial p(x) = 2x + 6?",
+      "type": "multipleChoice",
+      "options": [
+        "3",
+        "-3",
+        "6",
+        "-6"
+      ],
+      "exactAnswer": "-3",
+      "explanationSteps": [
+        "Step 1: Set the polynomial equal to 0: 2x + 6 = 0.",
+        "Step 2: Subtract 6 from both sides to get 2x = -6.",
+        "Step 3: Divide both sides by 2 to get x = -3, which is the zero of the polynomial."
+      ]
+    },
+    {
+      "id": "9_m_02_28",
+      "chapterName": "Polynomials",
+      "questionText": "Which of the following is a zero of p(x) = x² - 9?",
+      "type": "multipleChoice",
+      "options": [
+        "0",
+        "9",
+        "3",
+        "-9"
+      ],
+      "exactAnswer": "3",
+      "explanationSteps": [
+        "Step 1: Set the polynomial equal to 0: x² - 9 = 0.",
+        "Step 2: Rearranging gives x² = 9, so x = 3 or x = -3.",
+        "Step 3: Among the given options, 3 is a zero of the polynomial."
+      ]
+    },
+    {
+      "id": "9_m_02_29",
+      "chapterName": "Polynomials",
+      "questionText": "How many zeros can a linear polynomial have at most?",
+      "type": "multipleChoice",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "Infinite"
+      ],
+      "exactAnswer": "1",
+      "explanationSteps": [
+        "Step 1: A linear polynomial has the general form ax + b, where a is not 0.",
+        "Step 2: Setting ax + b = 0 and solving gives exactly one value of x, since we simply divide by a once.",
+        "Step 3: So a linear polynomial has exactly 1 zero."
+      ]
+    },
+    {
+      "id": "9_m_02_30",
+      "chapterName": "Polynomials",
+      "questionText": "If p(x) = kx + 3 has a zero at x = -1, find the value of k.",
+      "type": "multipleChoice",
+      "options": [
+        "3",
+        "-3",
+        "1",
+        "-1"
+      ],
+      "exactAnswer": "3",
+      "explanationSteps": [
+        "Step 1: Since x = -1 is a zero, substituting it into p(x) must give 0: p(-1) = 0.",
+        "Step 2: k(-1) + 3 = 0, which simplifies to -k + 3 = 0.",
+        "Step 3: Solving gives k = 3."
+      ]
+    },
+    {
+      "id": "9_m_02_31",
+      "chapterName": "Polynomials",
+      "questionText": "According to the Remainder Theorem, if p(x) is divided by (x - a), the remainder is:",
+      "type": "multipleChoice",
+      "options": [
+        "p(0)",
+        "p(a)",
+        "p(-a)",
+        "a"
+      ],
+      "exactAnswer": "p(a)",
+      "explanationSteps": [
+        "Step 1: The Remainder Theorem gives a shortcut to find the remainder without doing long division.",
+        "Step 2: It says the remainder equals the value of the polynomial when x is replaced by a, the number that makes (x - a) zero.",
+        "Step 3: So the remainder when dividing by (x - a) is simply p(a)."
+      ]
+    },
+    {
+      "id": "9_m_02_32",
+      "chapterName": "Polynomials",
+      "questionText": "Find the remainder when p(x) = x² + 3x + 2 is divided by (x - 1).",
+      "type": "multipleChoice",
+      "options": [
+        "6",
+        "0",
+        "2",
+        "1"
+      ],
+      "exactAnswer": "6",
+      "explanationSteps": [
+        "Step 1: By the Remainder Theorem, the remainder equals p(1) since we are dividing by (x - 1).",
+        "Step 2: p(1) = (1)² + 3(1) + 2 = 1 + 3 + 2.",
+        "Step 3: Adding these gives 6, so the remainder is 6."
+      ]
+    },
+    {
+      "id": "9_m_02_33",
+      "chapterName": "Polynomials",
+      "questionText": "Find the remainder when p(x) = x³ - 2x + 1 is divided by (x + 1).",
+      "type": "multipleChoice",
+      "options": [
+        "2",
+        "-2",
+        "0",
+        "4"
+      ],
+      "exactAnswer": "2",
+      "explanationSteps": [
+        "Step 1: Since we divide by (x + 1), which is (x - (-1)), the remainder equals p(-1).",
+        "Step 2: p(-1) = (-1)³ - 2(-1) + 1 = -1 + 2 + 1.",
+        "Step 3: Adding these gives 2, so the remainder is 2."
+      ]
+    },
+    {
+      "id": "9_m_02_34",
+      "chapterName": "Polynomials",
+      "questionText": "Find the remainder when p(x) = 2x² - 3x + 1 is divided by (x - 2).",
+      "type": "multipleChoice",
+      "options": [
+        "3",
+        "8",
+        "0",
+        "-3"
+      ],
+      "exactAnswer": "3",
+      "explanationSteps": [
+        "Step 1: By the Remainder Theorem, the remainder equals p(2).",
+        "Step 2: p(2) = 2(2)² - 3(2) + 1 = 8 - 6 + 1.",
+        "Step 3: Adding these gives 3, so the remainder is 3."
+      ]
+    },
+    {
+      "id": "9_m_02_35",
+      "chapterName": "Polynomials",
+      "questionText": "When p(x) = x³ + 1 is divided by (x - 1), the remainder is:",
+      "type": "multipleChoice",
+      "options": [
+        "0",
+        "1",
+        "2",
+        "-1"
+      ],
+      "exactAnswer": "2",
+      "explanationSteps": [
+        "Step 1: By the Remainder Theorem, the remainder equals p(1).",
+        "Step 2: p(1) = (1)³ + 1 = 1 + 1.",
+        "Step 3: Adding these gives 2, so the remainder is 2."
+      ]
+    },
+    {
+      "id": "9_m_02_36",
+      "chapterName": "Polynomials",
+      "questionText": "To find the remainder of p(x) divided by (x + 3), we calculate:",
+      "type": "multipleChoice",
+      "options": [
+        "p(3)",
+        "p(-3)",
+        "p(0)",
+        "p(1/3)"
+      ],
+      "exactAnswer": "p(-3)",
+      "explanationSteps": [
+        "Step 1: Write (x + 3) in the form (x - a) to find the value of a: x + 3 = x - (-3), so a = -3.",
+        "Step 2: The Remainder Theorem says the remainder is p(a).",
+        "Step 3: So the remainder is p(-3)."
+      ]
+    },
+    {
+      "id": "9_m_02_37",
+      "chapterName": "Polynomials",
+      "questionText": "According to the Factor Theorem, (x - a) is a factor of p(x) if and only if:",
+      "type": "multipleChoice",
+      "options": [
+        "p(a) = 1",
+        "p(a) = 0",
+        "p(0) = a",
+        "p(-a) = 0"
+      ],
+      "exactAnswer": "p(a) = 0",
+      "explanationSteps": [
+        "Step 1: The Factor Theorem connects zeros of a polynomial to its factors.",
+        "Step 2: It states that (x - a) divides p(x) exactly, with no remainder, exactly when p(a) equals 0.",
+        "Step 3: So the condition for (x - a) to be a factor is p(a) = 0."
+      ]
+    },
+    {
+      "id": "9_m_02_38",
+      "chapterName": "Polynomials",
+      "questionText": "Is (x - 1) a factor of p(x) = x² - 3x + 2?",
+      "type": "multipleChoice",
+      "options": [
+        "Yes, because p(1) = 0",
+        "No, because p(1) ≠ 0",
+        "Yes, because p(1) = 2",
+        "Cannot be determined"
+      ],
+      "exactAnswer": "Yes, because p(1) = 0",
+      "explanationSteps": [
+        "Step 1: By the Factor Theorem, check whether p(1) = 0.",
+        "Step 2: p(1) = (1)² - 3(1) + 2 = 1 - 3 + 2 = 0.",
+        "Step 3: Since p(1) = 0, (x - 1) is indeed a factor of p(x)."
+      ]
+    },
+    {
+      "id": "9_m_02_39",
+      "chapterName": "Polynomials",
+      "questionText": "Is (x + 2) a factor of p(x) = x³ + 2x² - x - 2?",
+      "type": "multipleChoice",
+      "options": [
+        "Yes, because p(-2) = 0",
+        "No, because p(-2) = 4",
+        "Yes, because p(-2) = 4",
+        "No, because p(-2) ≠ 0"
+      ],
+      "exactAnswer": "Yes, because p(-2) = 0",
+      "explanationSteps": [
+        "Step 1: Since (x + 2) is the same as (x - (-2)), check whether p(-2) = 0.",
+        "Step 2: p(-2) = (-2)³ + 2(-2)² - (-2) - 2 = -8 + 8 + 2 - 2.",
+        "Step 3: Adding these gives 0, so (x + 2) is a factor of p(x)."
+      ]
+    },
+    {
+      "id": "9_m_02_40",
+      "chapterName": "Polynomials",
+      "questionText": "Which value of k makes (x - 2) a factor of p(x) = x² - kx + 6?",
+      "type": "multipleChoice",
+      "options": [
+        "3",
+        "5",
+        "7",
+        "2"
+      ],
+      "exactAnswer": "5",
+      "explanationSteps": [
+        "Step 1: For (x - 2) to be a factor, p(2) must equal 0 by the Factor Theorem.",
+        "Step 2: p(2) = (2)² - k(2) + 6 = 4 - 2k + 6 = 10 - 2k, and this must equal 0.",
+        "Step 3: Solving 10 - 2k = 0 gives k = 5."
+      ]
+    },
+    {
+      "id": "9_m_02_41",
+      "chapterName": "Polynomials",
+      "questionText": "Is (x - 1) a factor of p(x) = 2x³ - 3x² + x - 1?",
+      "type": "multipleChoice",
+      "options": [
+        "No, because p(1) = -1",
+        "Yes, because p(1) = 0",
+        "Yes, because p(1) = 1",
+        "No, because p(1) = 2"
+      ],
+      "exactAnswer": "No, because p(1) = -1",
+      "explanationSteps": [
+        "Step 1: Check whether p(1) = 0 using the Factor Theorem.",
+        "Step 2: p(1) = 2(1)³ - 3(1)² + 1 - 1 = 2 - 3 + 1 - 1.",
+        "Step 3: Adding these gives -1, which is not 0, so (x - 1) is not a factor of p(x)."
+      ]
+    },
+    {
+      "id": "9_m_02_42",
+      "chapterName": "Polynomials",
+      "questionText": "If (x - 3) is a factor of p(x) = x² - x - c, find the value of c.",
+      "type": "multipleChoice",
+      "options": [
+        "6",
+        "-6",
+        "3",
+        "9"
+      ],
+      "exactAnswer": "6",
+      "explanationSteps": [
+        "Step 1: Since (x - 3) is a factor, p(3) must equal 0.",
+        "Step 2: p(3) = (3)² - 3 - c = 9 - 3 - c = 6 - c, and this must equal 0.",
+        "Step 3: Solving 6 - c = 0 gives c = 6."
+      ]
+    },
+    {
+      "id": "9_m_02_43",
+      "chapterName": "Polynomials",
+      "questionText": "Using the identity (x + y)² = x² + 2xy + y², expand (2x + 3)².",
+      "type": "multipleChoice",
+      "options": [
+        "4x² + 12x + 9",
+        "4x² + 6x + 9",
+        "2x² + 12x + 9",
+        "4x² + 12x + 3"
+      ],
+      "exactAnswer": "4x² + 12x + 9",
+      "explanationSteps": [
+        "Step 1: Match (2x + 3)² with the identity (x + y)² = x² + 2xy + y², where here x = 2x and y = 3.",
+        "Step 2: Calculate each part: x² = (2x)² = 4x², 2xy = 2(2x)(3) = 12x, and y² = 3² = 9.",
+        "Step 3: Putting it together gives 4x² + 12x + 9."
+      ]
+    },
+    {
+      "id": "9_m_02_44",
+      "chapterName": "Polynomials",
+      "questionText": "Using the identity (x - y)² = x² - 2xy + y², expand (5 - x)².",
+      "type": "multipleChoice",
+      "options": [
+        "25 - 10x + x²",
+        "25 - 5x + x²",
+        "25 + 10x + x²",
+        "x² - 10x - 25"
+      ],
+      "exactAnswer": "25 - 10x + x²",
+      "explanationSteps": [
+        "Step 1: Match (5 - x)² with the identity (x - y)² = x² - 2xy + y², where here x = 5 and y = x.",
+        "Step 2: Calculate each part: x² = 5² = 25, 2xy = 2(5)(x) = 10x, and y² = x².",
+        "Step 3: Putting it together gives 25 - 10x + x²."
+      ]
+    },
+    {
+      "id": "9_m_02_45",
+      "chapterName": "Polynomials",
+      "questionText": "Using the identity x² - y² = (x + y)(x - y), factorize 9x² - 16.",
+      "type": "multipleChoice",
+      "options": [
+        "(3x+4)(3x-4)",
+        "(3x+4)(3x+4)",
+        "(9x+16)(9x-16)",
+        "(3x-4)(3x-4)"
+      ],
+      "exactAnswer": "(3x+4)(3x-4)",
+      "explanationSteps": [
+        "Step 1: Write 9x² - 16 as a difference of two squares: (3x)² - (4)².",
+        "Step 2: Match this with the identity x² - y² = (x + y)(x - y), where here x = 3x and y = 4.",
+        "Step 3: This gives the factorization (3x + 4)(3x - 4)."
+      ]
+    },
+    {
+      "id": "9_m_02_46",
+      "chapterName": "Polynomials",
+      "questionText": "Simplify (a + b)² - (a - b)² using identities.",
+      "type": "multipleChoice",
+      "options": [
+        "2ab",
+        "4ab",
+        "2a² + 2b²",
+        "0"
+      ],
+      "exactAnswer": "4ab",
+      "explanationSteps": [
+        "Step 1: Expand each square: (a + b)² = a² + 2ab + b² and (a - b)² = a² - 2ab + b².",
+        "Step 2: Subtract the second expansion from the first: (a² + 2ab + b²) - (a² - 2ab + b²).",
+        "Step 3: The a² and b² terms cancel out, leaving 2ab - (-2ab) = 4ab."
+      ]
+    },
+    {
+      "id": "9_m_02_47",
+      "chapterName": "Polynomials",
+      "questionText": "Using identity (x+a)(x+b) = x² + (a+b)x + ab, expand (x+4)(x+6).",
+      "type": "multipleChoice",
+      "options": [
+        "x² + 10x + 24",
+        "x² + 24x + 10",
+        "x² + 10x + 10",
+        "x² + 24x + 24"
+      ],
+      "exactAnswer": "x² + 10x + 24",
+      "explanationSteps": [
+        "Step 1: Match (x + 4)(x + 6) with the identity (x + a)(x + b) = x² + (a + b)x + ab, where a = 4 and b = 6.",
+        "Step 2: Calculate a + b = 4 + 6 = 10 and ab = 4 × 6 = 24.",
+        "Step 3: Putting it together gives x² + 10x + 24."
+      ]
+    },
+    {
+      "id": "9_m_02_48",
+      "chapterName": "Polynomials",
+      "questionText": "Using the identity x³ + y³ = (x+y)(x² - xy + y²), which is the correct factorization of x³ + 8?",
+      "type": "multipleChoice",
+      "options": [
+        "(x+2)(x² - 2x + 4)",
+        "(x+2)(x² + 2x + 4)",
+        "(x-2)(x² + 2x + 4)",
+        "(x+2)(x² - 4x + 4)"
+      ],
+      "exactAnswer": "(x+2)(x² - 2x + 4)",
+      "explanationSteps": [
+        "Step 1: Write 8 as 2³, so x³ + 8 becomes x³ + 2³.",
+        "Step 2: Match this with the identity x³ + y³ = (x + y)(x² - xy + y²), where x = x and y = 2.",
+        "Step 3: Substituting gives (x + 2)(x² - 2x + 4)."
+      ]
+    },
+    {
+      "id": "9_m_02_49",
+      "chapterName": "Polynomials",
+      "questionText": "Using the identity (x+y+z)² = x² + y² + z² + 2xy + 2yz + 2zx, if x+y+z=0, then x²+y²+z² equals:",
+      "type": "multipleChoice",
+      "options": [
+        "2xy+2yz+2zx",
+        "-(2xy+2yz+2zx)",
+        "0",
+        "xy+yz+zx"
+      ],
+      "exactAnswer": "-(2xy+2yz+2zx)",
+      "explanationSteps": [
+        "Step 1: Since x + y + z = 0, squaring both sides gives (x + y + z)² = 0.",
+        "Step 2: Using the identity, this means x² + y² + z² + 2xy + 2yz + 2zx = 0.",
+        "Step 3: Moving the mixed terms to the other side gives x² + y² + z² = -(2xy + 2yz + 2zx)."
+      ]
+    },
+    {
+      "id": "9_m_02_50",
+      "chapterName": "Polynomials",
+      "questionText": "Evaluate 99² using a suitable algebraic identity.",
+      "type": "multipleChoice",
+      "options": [
+        "9801",
+        "9601",
+        "9901",
+        "9702"
+      ],
+      "exactAnswer": "9801",
+      "explanationSteps": [
+        "Step 1: Write 99 as (100 - 1) so we can use the identity (x - y)² = x² - 2xy + y².",
+        "Step 2: Substitute x = 100 and y = 1: 100² - 2(100)(1) + 1² = 10000 - 200 + 1.",
+        "Step 3: Adding these gives 9801, so 99² = 9801."
+      ]
+    }
+
+
+]
