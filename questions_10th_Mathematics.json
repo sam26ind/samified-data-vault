@@ -1,1 +1,17 @@
-[]
+[
+  {
+    "id": "10_m_1_test_01",
+    "chapterName": "Real Numbers",
+    "questionText": "[LIVE GITHUB TEST] What is the HCF of the smallest prime number and the smallest composite number?",
+    "type": "multipleChoice",
+    "options": ["1", "2", "3", "4"],
+    "exactAnswer": "2",
+    "explanationSteps": [
+      "Step 1: The smallest prime number is 2.",
+      "Step 2: The smallest composite number is 4.",
+      "Step 3: The factors of 2 are 1, 2.",
+      "Step 4: The factors of 4 are 1, 2, 4.",
+      "Step 5: The Highest Common Factor (HCF) is 2. If you are reading this, your GitHub sync is working perfectly."
+    ]
+  }
+]
