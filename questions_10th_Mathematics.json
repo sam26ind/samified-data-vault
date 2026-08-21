@@ -22701,7 +22701,7 @@
   {
 
       "id": "10_m_9_001",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "What is the line drawn from the eye of an observer to the point in the object viewed by the observer called?",
       "type": "multipleChoice",
       "options": ["Horizontal line", "Vertical line", "Line of sight", "Line of depression"],
@@ -22714,7 +22714,7 @@
     },
     {
       "id": "10_m_9_002",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "Which angle is formed by the line of sight with the horizontal when the object being viewed is above the horizontal level?",
       "type": "multipleChoice",
       "options": ["Angle of depression", "Angle of elevation", "Right angle", "Straight angle"],
@@ -22727,7 +22727,7 @@
     },
     {
       "id": "10_m_9_003",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "Which angle is formed by the line of sight with the horizontal when the object being viewed is below the horizontal level?",
       "type": "multipleChoice",
       "options": ["Angle of elevation", "Right angle", "Acute angle", "Angle of depression"],
@@ -22740,7 +22740,7 @@
     },
     {
       "id": "10_m_9_004",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "If the angle of depression of an object from a tower is 30°, what is the angle of elevation of the tower from the object?",
       "type": "multipleChoice",
       "options": ["30°", "60°", "45°", "90°"],
@@ -22753,7 +22753,7 @@
     },
     {
       "id": "10_m_9_005",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "At what angle of elevation of the sun is the length of the shadow of a vertical pole exactly equal to the height of the pole?",
       "type": "multipleChoice",
       "options": ["30°", "45°", "60°", "90°"],
@@ -22766,7 +22766,7 @@
     },
     {
       "id": "10_m_9_006",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A vertical pole 10 m high casts a shadow 10 m long on the ground. Find the angle of elevation of the sun.",
       "type": "multipleChoice",
       "options": ["30°", "45°", "60°", "90°"],
@@ -22779,7 +22779,7 @@
     },
     {
       "id": "10_m_9_007",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The angle of elevation of the top of a tower from a point on the ground, which is 30 m away from the foot of the tower, is 30°. Find the height of the tower.",
       "type": "multipleChoice",
       "options": ["10√3 m", "30√3 m", "15 m", "10 m"],
@@ -22792,7 +22792,7 @@
     },
     {
       "id": "10_m_9_008",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A kite is flying at a height of 60 m above the ground. The string is inclined at 60° to the ground. Find the length of the string, assuming no slack.",
       "type": "multipleChoice",
       "options": ["40√3 m", "60√3 m", "20√3 m", "120 m"],
@@ -22805,7 +22805,7 @@
     },
     {
       "id": "10_m_9_009",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "An observer 1.5 m tall is 28.5 m away from a chimney. The angle of elevation of the top of the chimney from her eyes is 45°. What is the total height of the chimney?",
       "type": "multipleChoice",
       "options": ["28.5 m", "30 m", "31.5 m", "27 m"],
@@ -22818,7 +22818,7 @@
     },
     {
       "id": "10_m_9_010",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The angle of depression of a car parked on the road from the top of a 150 m high tower is 30°. Find the distance of the car from the base of the tower.",
       "type": "multipleChoice",
       "options": ["50√3 m", "150√3 m", "150 m", "75 m"],
@@ -22831,7 +22831,7 @@
     },
     {
       "id": "10_m_9_011",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A ladder 15 m long just reaches the top of a vertical wall. If the ladder makes an angle of 60° with the ground, what is the height of the wall?",
       "type": "multipleChoice",
       "options": ["7.5 m", "15√3 m", "7.5√3 m", "15 m"],
@@ -22844,7 +22844,7 @@
     },
     {
       "id": "10_m_9_012",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The ratio of the length of a vertical rod to its shadow is 1:√3. What is the angle of elevation of the sun?",
       "type": "multipleChoice",
       "options": ["30°", "45°", "60°", "90°"],
@@ -22857,7 +22857,7 @@
     },
     {
       "id": "10_m_9_013",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The ratio of the length of a vertical rod to its shadow is √3:1. What is the angle of elevation of the sun?",
       "type": "multipleChoice",
       "options": ["30°", "45°", "60°", "90°"],
@@ -22870,7 +22870,7 @@
     },
     {
       "id": "10_m_9_014",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "As an observer moves towards a tall building, what happens to the angle of elevation to the top of the building?",
       "type": "multipleChoice",
       "options": ["It decreases", "It increases", "It remains the same", "It becomes zero"],
@@ -22883,7 +22883,7 @@
     },
     {
       "id": "10_m_9_015",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "As an observer moves away from a tall building, what happens to the angle of elevation to the top of the building?",
       "type": "multipleChoice",
       "options": ["It decreases", "It increases", "It remains the same", "It becomes 90°"],
@@ -22896,7 +22896,7 @@
     },
     {
       "id": "10_m_9_016",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A 20 m long wire is stretched from the top of a vertical pole to the ground. If the angle made by the wire with the ground is 30°, find the height of the pole.",
       "type": "multipleChoice",
       "options": ["10 m", "10√3 m", "20 m", "40 m"],
@@ -22909,7 +22909,7 @@
     },
     {
       "id": "10_m_9_017",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "From a point on the ground, the angle of elevation of a 25 m tall tower is 45°. What is the distance of the point from the foot of the tower?",
       "type": "multipleChoice",
       "options": ["25 m", "25√2 m", "25√3 m", "12.5 m"],
@@ -22922,7 +22922,7 @@
     },
     {
       "id": "10_m_9_018",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A bridge across a river makes an angle of 45° with the river bank. If the length of the bridge across the river is 150 m, what is the width of the river?",
       "type": "multipleChoice",
       "options": ["75 m", "75√2 m", "150√2 m", "150 m"],
@@ -22935,7 +22935,7 @@
     },
     {
       "id": "10_m_9_019",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "What instrument is traditionally used by surveyors to measure the angle of elevation or depression?",
       "type": "multipleChoice",
       "options": ["Barometer", "Clinometer", "Thermometer", "Speedometer"],
@@ -22948,7 +22948,7 @@
     },
     {
       "id": "10_m_9_020",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "If the angle of elevation of the sun changes from 30° to 60°, what happens to the length of the shadow of a vertical pole?",
       "type": "multipleChoice",
       "options": ["It increases", "It decreases", "It remains the same", "It becomes zero"],
@@ -22961,7 +22961,7 @@
     },
     {
       "id": "10_m_9_021",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A 10 m tall tree casts a shadow of 10/√3 m. Find the angle of elevation of the sun.",
       "type": "multipleChoice",
       "options": ["30°", "45°", "60°", "90°"],
@@ -22974,7 +22974,7 @@
     },
     {
       "id": "10_m_9_022",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "From the top of a 50 m high cliff, the angle of depression of a boat is 45°. How far is the boat from the base of the cliff?",
       "type": "multipleChoice",
       "options": ["25 m", "50 m", "50√2 m", "100 m"],
@@ -22987,7 +22987,7 @@
     },
     {
       "id": "10_m_9_023",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A ladder makes an angle of 60° with the ground and its lower end is 5 m away from the wall. What is the length of the ladder?",
       "type": "multipleChoice",
       "options": ["5 m", "10 m", "5√3 m", "10√3 m"],
@@ -23000,7 +23000,7 @@
     },
     {
       "id": "10_m_9_024",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The angle of elevation of a tower from a point 100 m from its foot is 60°. What is the height of the tower?",
       "type": "multipleChoice",
       "options": ["100 m", "100/√3 m", "100√3 m", "50 m"],
@@ -23013,7 +23013,7 @@
     },
     {
       "id": "10_m_9_025",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "If the height of a tower and the distance of the point of observation from its foot both double, what happens to the angle of elevation?",
       "type": "multipleChoice",
       "options": ["It doubles", "It halves", "It remains unchanged", "It quadruples"],
@@ -23026,7 +23026,7 @@
     },
     {
       "id": "10_m_9_026",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "An observer 1.5 m tall is 20√3 m away from a tower. The angle of elevation of the top of the tower from her eyes is 30°. What is the height of the tower?",
       "type": "multipleChoice",
       "options": ["20 m", "21.5 m", "23 m", "20√3 m"],
@@ -23039,7 +23039,7 @@
     },
     {
       "id": "10_m_9_027",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A kite's string is 50 m long and makes an angle of 45° with the horizontal. Find the height of the kite, assuming no slack.",
       "type": "multipleChoice",
       "options": ["25 m", "25√2 m", "50 m", "50√2 m"],
@@ -23052,7 +23052,7 @@
     },
     {
       "id": "10_m_9_028",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "From the top of a 7 m high building, the angle of depression of a point on the ground is 45°. Find the distance of the point from the building.",
       "type": "multipleChoice",
       "options": ["7 m", "7√2 m", "14 m", "3.5 m"],
@@ -23065,7 +23065,7 @@
     },
     {
       "id": "10_m_9_029",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The shadow of a vertical tower is √3 times its height. Find the angle of elevation of the sun.",
       "type": "multipleChoice",
       "options": ["30°", "45°", "60°", "90°"],
@@ -23078,7 +23078,7 @@
     },
     {
       "id": "10_m_9_030",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A ladder makes an angle of 45° with the ground and its lower end is 10 m away from the wall. What is the height of the point where the ladder touches the wall?",
       "type": "multipleChoice",
       "options": ["5 m", "10 m", "10√2 m", "20 m"],
@@ -23091,7 +23091,7 @@
     },
     {
       "id": "10_m_9_031",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The angle of elevation of a building from a point 30 m away is 30°. What is the height of the building?",
       "type": "multipleChoice",
       "options": ["10 m", "10√3 m", "30 m", "30√3 m"],
@@ -23104,7 +23104,7 @@
     },
     {
       "id": "10_m_9_032",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "What happens to the angle of depression from a balcony to a car as the car drives directly towards the building?",
       "type": "multipleChoice",
       "options": ["It decreases", "It increases", "It stays the same", "It fluctuates"],
@@ -23117,7 +23117,7 @@
     },
     {
       "id": "10_m_9_033",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A 15 m tall tower casts a shadow of 15√3 m. What is the angle of elevation of the sun?",
       "type": "multipleChoice",
       "options": ["30°", "45°", "60°", "90°"],
@@ -23130,7 +23130,7 @@
     },
     {
       "id": "10_m_9_034",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The line of sight is horizontal. If you look at a flying bird, what kind of angle is formed?",
       "type": "multipleChoice",
       "options": ["Angle of depression", "Angle of elevation", "Right angle", "Reflex angle"],
@@ -23143,7 +23143,7 @@
     },
     {
       "id": "10_m_9_035",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The angle of depression of a boat from a 50 m high bridge is 30°. What is the horizontal distance of the boat from the bridge?",
       "type": "multipleChoice",
       "options": ["50 m", "50/√3 m", "50√3 m", "25 m"],
@@ -23156,7 +23156,7 @@
     },
     {
       "id": "10_m_9_036",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A ladder makes an angle of 30° with the ground. If the height of the wall it reaches is 12 m, find the length of the ladder.",
       "type": "multipleChoice",
       "options": ["12 m", "24 m", "12√3 m", "24/√3 m"],
@@ -23169,7 +23169,7 @@
     },
     {
       "id": "10_m_9_037",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A ladder makes an angle of 60° with a wall. If the ladder is 20 m long, find the distance of its foot from the wall.",
       "type": "multipleChoice",
       "options": ["10 m", "10√3 m", "20 m", "40 m"],
@@ -23182,7 +23182,7 @@
     },
     {
       "id": "10_m_9_038",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The angle of elevation of a kite is 60° and the length of the string is 80 m. Find the height of the kite.",
       "type": "multipleChoice",
       "options": ["40 m", "40√3 m", "80 m", "80√3 m"],
@@ -23195,7 +23195,7 @@
     },
     {
       "id": "10_m_9_039",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "From a window 15 m high above the ground, the angle of depression of a ball on the ground is 45°. How far is the ball from the base of the building?",
       "type": "multipleChoice",
       "options": ["15 m", "15√2 m", "30 m", "15√3 m"],
@@ -23208,7 +23208,7 @@
     },
     {
       "id": "10_m_9_040",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A pole casts a shadow of length 2√3 m when the sun's elevation is 60°. What is the height of the pole?",
       "type": "multipleChoice",
       "options": ["2 m", "4 m", "6 m", "8 m"],
@@ -23221,7 +23221,7 @@
     },
     {
       "id": "10_m_9_041",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "An observer stands at a distance of 10 m from a building. If the angle of elevation of the top is 45°, what is the height of the building? (Assume observer height is negligible).",
       "type": "multipleChoice",
       "options": ["10 m", "20 m", "10√2 m", "5 m"],
@@ -23234,7 +23234,7 @@
     },
     {
       "id": "10_m_9_042",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "The angle of elevation of the top of a rock from a point 50 m away is 30°. Find the height of the rock.",
       "type": "multipleChoice",
       "options": ["50 m", "50√3 m", "50/√3 m", "25 m"],
@@ -23247,7 +23247,7 @@
     },
     {
       "id": "10_m_9_043",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A 100 m long string connects a kite to the ground. If the height of the kite is 50 m, what is the angle of elevation?",
       "type": "multipleChoice",
       "options": ["30°", "45°", "60°", "90°"],
@@ -23260,7 +23260,7 @@
     },
     {
       "id": "10_m_9_044",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "From the top of a 20 m high tower, the angle of depression of a point on the ground is 30°. Find the distance of the point from the tower's foot.",
       "type": "multipleChoice",
       "options": ["20 m", "20√3 m", "20/√3 m", "40 m"],
@@ -23273,7 +23273,7 @@
     },
     {
       "id": "10_m_9_045",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A tree casts a shadow of 12 m. If the angle of elevation of the sun is 60°, find the height of the tree.",
       "type": "multipleChoice",
       "options": ["12 m", "4√3 m", "12√3 m", "24 m"],
@@ -23286,7 +23286,7 @@
     },
     {
       "id": "10_m_9_046",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "If the length of a shadow of a vertical pole decreases, what can be inferred about the sun's angle of elevation?",
       "type": "multipleChoice",
       "options": ["It is decreasing", "It is increasing", "It remains constant", "It is zero"],
@@ -23299,7 +23299,7 @@
     },
     {
       "id": "10_m_9_047",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A circus artist climbs a 20 m long rope tightly stretched from the top of a vertical pole to the ground. If the rope makes an angle of 30° with the ground, find the pole's height.",
       "type": "multipleChoice",
       "options": ["10 m", "20 m", "10√3 m", "40 m"],
@@ -23312,7 +23312,7 @@
     },
     {
       "id": "10_m_9_048",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "A kite is flying at an altitude of 30 m. If the string is inclined at 45° to the ground, what is the length of the string?",
       "type": "multipleChoice",
       "options": ["30 m", "60 m", "30√2 m", "15 m"],
@@ -23325,7 +23325,7 @@
     },
     {
       "id": "10_m_9_049",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "If the angle of elevation of a tower from a distance of 'x' is 45°, what is the height of the tower in terms of 'x'?",
       "type": "multipleChoice",
       "options": ["x/2", "x√3", "x", "2x"],
@@ -23338,7 +23338,7 @@
     },
     {
       "id": "10_m_9_050",
-      "chapterName": "Some Applications of Trigonometry",
+      "chapterName": "Applications of Trigonometry",
       "questionText": "What trigonometric ratio is most commonly used to find the height of a building when only the distance from the base and the angle of elevation are known?",
       "type": "multipleChoice",
       "options": ["Sine (sin)", "Cosine (cos)", "Tangent (tan)", "Secant (sec)"],
@@ -23352,7 +23352,7 @@
 
       {
         "id": "10_m_9_001",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A tower is 10 m high. What is the distance from its base to a point where the angle of elevation of its top is 30°?",
         "type": "multipleChoice",
         "options": ["10√3 m", "10/√3 m", "20 m", "30 m"],
@@ -23365,7 +23365,7 @@
       },
       {
         "id": "10_m_9_002",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The shadow of a tower on the ground is √3 times the height of the tower. What is the angle of elevation of the sun?",
         "type": "multipleChoice",
         "options": ["30°", "45°", "60°", "90°"],
@@ -23378,7 +23378,7 @@
       },
       {
         "id": "10_m_9_003",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A kite is flying with a string 100 m long making an angle of 60° with the horizontal. Assuming there is no slack in the string, what is the height of the kite?",
         "type": "multipleChoice",
         "options": ["50 m", "50√3 m", "100√3 m", "100/√3 m"],
@@ -23391,7 +23391,7 @@
       },
       {
         "id": "10_m_9_004",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A 15 m long ladder leans against a wall and makes an angle of 60° with the ground. What is the distance from the foot of the ladder to the wall?",
         "type": "multipleChoice",
         "options": ["7.5 m", "15 m", "7.5√3 m", "10 m"],
@@ -23404,7 +23404,7 @@
       },
       {
         "id": "10_m_9_005",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A tree breaks due to a storm and the broken part bends so that the top touches the ground making an angle of 30° with it. The distance from the foot of the tree to the point where the top touches the ground is 8 m. Find the original height of the tree.",
         "type": "multipleChoice",
         "options": ["8√3 m", "24 m", "16/√3 m", "8/√3 m"],
@@ -23417,7 +23417,7 @@
       },
       {
         "id": "10_m_9_006",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angle of elevation of the top of a tower from a point on the ground, which is 30 m away from the foot of the tower, is 45°. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["15 m", "30 m", "30√2 m", "30√3 m"],
@@ -23430,7 +23430,7 @@
       },
       {
         "id": "10_m_9_007",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From the top of a 50 m high tower, the angle of depression of a car on the ground is 30°. What is the distance of the car from the base of the tower?",
         "type": "multipleChoice",
         "options": ["50√3 m", "50/√3 m", "100 m", "25 m"],
@@ -23443,7 +23443,7 @@
       },
       {
         "id": "10_m_9_008",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "At a particular time of the day, the length of the shadow of a vertical pole is equal to the height of the pole. What is the altitude (elevation) of the sun?",
         "type": "multipleChoice",
         "options": ["30°", "45°", "60°", "90°"],
@@ -23456,7 +23456,7 @@
       },
       {
         "id": "10_m_9_009",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a bridge 3 m above a river, the angles of depression of opposite banks are 30° and 45°. What is the width of the river?",
         "type": "multipleChoice",
         "options": ["3(√3 - 1) m", "3(√3 + 1) m", "3√3 m", "6 m"],
@@ -23469,7 +23469,7 @@
       },
       {
         "id": "10_m_9_010",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A 1.5 m tall boy is standing at a distance of 28.5 m from a 30 m high chimney. What is the angle of elevation of the top of the chimney from his eyes?",
         "type": "multipleChoice",
         "options": ["30°", "45°", "60°", "75°"],
@@ -23482,7 +23482,7 @@
       },
       {
         "id": "10_m_9_011",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angle of elevation of a tower is 30°. By walking 20 m towards the tower, the angle of elevation becomes 60°. What is the height of the tower?",
         "type": "multipleChoice",
         "options": ["10√3 m", "20 m", "20√3 m", "10 m"],
@@ -23495,7 +23495,7 @@
       },
       {
         "id": "10_m_9_012",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From the top of a 7 m high building, the angle of elevation of the top of a cable tower is 60° and the angle of depression of its foot is 45°. Determine the height of the tower.",
         "type": "multipleChoice",
         "options": ["7(√3 - 1) m", "7(√3 + 1) m", "14 m", "14√3 m"],
@@ -23508,7 +23508,7 @@
       },
       {
         "id": "10_m_9_013",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The tops of two poles of heights 16 m and 10 m are connected by a wire. If the wire makes an angle of 30° with the horizontal, find the length of the wire.",
         "type": "multipleChoice",
         "options": ["6 m", "10 m", "12 m", "16 m"],
@@ -23521,7 +23521,7 @@
       },
       {
         "id": "10_m_9_014",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A circus artist is climbing a 20 m long rope, which is tightly stretched and tied from the top of a vertical pole to the ground. Find the height of the pole, if the angle made by the rope with the ground is 30°.",
         "type": "multipleChoice",
         "options": ["10 m", "10√3 m", "20 m", "20√3 m"],
@@ -23534,7 +23534,7 @@
       },
       {
         "id": "10_m_9_015",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "Two ships are on opposite sides of a 100 m high lighthouse. Their angles of depression from the top of the lighthouse are 30° and 45°. What is the distance between the two ships?",
         "type": "multipleChoice",
         "options": ["100(√3 - 1) m", "100(√3 + 1) m", "100√3 m", "200 m"],
@@ -23547,7 +23547,7 @@
       },
       {
         "id": "10_m_9_016",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "When the angle of elevation of the sun changes from 30° to 60°, the length of the shadow of a pole decreases by 40 m. Find the height of the pole.",
         "type": "multipleChoice",
         "options": ["20 m", "20√3 m", "40 m", "40√3 m"],
@@ -23560,7 +23560,7 @@
       },
       {
         "id": "10_m_9_017",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The string of a kite is 150 m long and makes an angle θ with the horizontal such that sin θ = 3/5. Find the height of the kite.",
         "type": "multipleChoice",
         "options": ["90 m", "120 m", "75 m", "100 m"],
@@ -23573,7 +23573,7 @@
       },
       {
         "id": "10_m_9_018",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angles of elevation of the top of a tower from two points on the ground at distances of 4 m and 9 m from the base are complementary. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["5 m", "6 m", "7 m", "36 m"],
@@ -23586,7 +23586,7 @@
       },
       {
         "id": "10_m_9_019",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A 1.2 m tall girl spots a balloon moving horizontally at a height of 88.2 m from the ground. The angle of elevation of the balloon changes from 60° to 30°. Find the distance travelled by the balloon during the interval.",
         "type": "multipleChoice",
         "options": ["29√3 m", "58√3 m", "87√3 m", "58 m"],
@@ -23599,7 +23599,7 @@
       },
       {
         "id": "10_m_9_020",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a point on the ground, the angles of elevation of the bottom and top of a transmission tower fixed at the top of a 20 m high building are 45° and 60° respectively. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["20(√3 - 1) m", "20(√3 + 1) m", "20√3 m", "40 m"],
@@ -23612,7 +23612,7 @@
       },
       {
         "id": "10_m_9_021",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A car approaches a tower. From the top, the angle of depression of the car changes from 30° to 60° in 6 seconds. How much more time will the car take to reach the foot of the tower?",
         "type": "multipleChoice",
         "options": ["2 seconds", "3 seconds", "4 seconds", "6 seconds"],
@@ -23625,7 +23625,7 @@
       },
       {
         "id": "10_m_9_022",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A tree breaks due to a storm and its top touches the ground at an angle of 30°, at a distance of 10 m from the base. What was the total original height of the tree?",
         "type": "multipleChoice",
         "options": ["10√3 m", "20√3 m", "30 m", "15√3 m"],
@@ -23638,7 +23638,7 @@
       },
       {
         "id": "10_m_9_023",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A vertical tower stands on a horizontal plane. From a point 15 m away from the foot of the tower, the angle of elevation of its top is 60°. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["15√3 m", "15/√3 m", "30 m", "5√3 m"],
@@ -23651,7 +23651,7 @@
       },
       {
         "id": "10_m_9_024",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A kite is flying at a height of 60 m above the ground. The string attached to it is temporarily tied to a point on the ground, making an inclination of 60°. Find the length of the string.",
         "type": "multipleChoice",
         "options": ["20√3 m", "40√3 m", "60√3 m", "120 m"],
@@ -23664,7 +23664,7 @@
       },
       {
         "id": "10_m_9_025",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "An observer 1.5 m tall is 20√3 m away from a chimney. The angle of elevation of the top of the chimney from her eyes is 60°. What is the total height of the chimney?",
         "type": "multipleChoice",
         "options": ["60 m", "61.5 m", "41.5 m", "31.5 m"],
@@ -23677,7 +23677,7 @@
       },
       {
         "id": "10_m_9_026",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The shadow of a tower is 20 m longer when the sun's altitude is 30° than when it is 60°. What is the height of the tower?",
         "type": "multipleChoice",
         "options": ["10 m", "10√3 m", "20 m", "20√3 m"],
@@ -23690,7 +23690,7 @@
       },
       {
         "id": "10_m_9_027",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a point P on the ground, the angle of elevation of the top of a 10 m tall building is 30°. A flag is hoisted at the top of the building and the angle of elevation of the top of the flagstaff from P is 45°. Find the length of the flagstaff.",
         "type": "multipleChoice",
         "options": ["10(√3 - 1) m", "10√3 m", "10 m", "10(√3 + 1) m"],
@@ -23703,7 +23703,7 @@
       },
       {
         "id": "10_m_9_028",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "If the shadow of a 5 m long vertical pole is 5 m long, what is the angle of elevation of the sun?",
         "type": "multipleChoice",
         "options": ["30°", "45°", "60°", "90°"],
@@ -23716,7 +23716,7 @@
       },
       {
         "id": "10_m_9_029",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A ladder rests against a vertical wall at an angle of 60° to the horizontal ground. Its foot is 2.5 m away from the wall. What is the length of the ladder?",
         "type": "multipleChoice",
         "options": ["2.5 m", "5 m", "7.5 m", "5√3 m"],
@@ -23729,7 +23729,7 @@
       },
       {
         "id": "10_m_9_030",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angles of depression of two ships from the top of a 50 m high lighthouse, lying on the same side of it, are 30° and 45°. What is the distance between the two ships?",
         "type": "multipleChoice",
         "options": ["50(√3 - 1) m", "50(√3 + 1) m", "50√3 m", "50 m"],
@@ -23742,7 +23742,7 @@
       },
       {
         "id": "10_m_9_031",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "What is the angle of elevation of the top of a 15 m high tower from a point on the ground that is exactly 15 m away from the foot of the tower?",
         "type": "multipleChoice",
         "options": ["30°", "45°", "60°", "90°"],
@@ -23755,7 +23755,7 @@
       },
       {
         "id": "10_m_9_032",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angle of elevation of a tower from a point on the ground is 30°. On moving 20 m towards the tower, the angle becomes 45°. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["10(√3 - 1) m", "10(√3 + 1) m", "20√3 m", "20(√3 + 1) m"],
@@ -23768,7 +23768,7 @@
       },
       {
         "id": "10_m_9_033",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "If the altitude of the sun is 60°, what is the height of a vertical tower that casts a 30 m long shadow?",
         "type": "multipleChoice",
         "options": ["10√3 m", "30 m", "30√3 m", "90 m"],
@@ -23781,7 +23781,7 @@
       },
       {
         "id": "10_m_9_034",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "An airplane flying horizontally at 3000 m passes vertically above another plane at an instant when the angles of elevation from a point on the ground are 60° and 45° respectively. What is the vertical distance between the planes?",
         "type": "multipleChoice",
         "options": ["1000(3 - √3) m", "1000√3 m", "3000(√3 - 1) m", "1500 m"],
@@ -23794,7 +23794,7 @@
       },
       {
         "id": "10_m_9_035",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a point strictly 25 m away from the base of a 25 m tall building, what is the angle of elevation of the top of the building?",
         "type": "multipleChoice",
         "options": ["30°", "45°", "60°", "90°"],
@@ -23807,7 +23807,7 @@
       },
       {
         "id": "10_m_9_036",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A telecommunication tower is supported by a guy wire. The wire makes an angle of 60° with the ground and is tied 10 m away from the base of the tower. What is the height of the tower?",
         "type": "multipleChoice",
         "options": ["10 m", "10√3 m", "10/√3 m", "20 m"],
@@ -23820,7 +23820,7 @@
       },
       {
         "id": "10_m_9_037",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The length of the shadow of a vertical tower is 1/√3 times its height. Find the angle of elevation of the sun.",
         "type": "multipleChoice",
         "options": ["30°", "45°", "60°", "75°"],
@@ -23833,7 +23833,7 @@
       },
       {
         "id": "10_m_9_038",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "An electric pole is 10 m high. A steel wire tied from the top to a point on the ground makes an angle of 45° with the ground. What is the length of the wire?",
         "type": "multipleChoice",
         "options": ["10 m", "10√2 m", "10√3 m", "20 m"],
@@ -23846,7 +23846,7 @@
       },
       {
         "id": "10_m_9_039",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angle of depression of a point on the ground from the top of a 20 m high building is 60°. Find the distance of the point from the base of the building.",
         "type": "multipleChoice",
         "options": ["20 m", "10√3 m", "20√3 / 3 m", "20√3 m"],
@@ -23859,7 +23859,7 @@
       },
       {
         "id": "10_m_9_040",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The ratio of the height of a tower to the length of its shadow is √3 : 1. What is the angle of elevation of the sun?",
         "type": "multipleChoice",
         "options": ["30°", "45°", "60°", "90°"],
@@ -23872,7 +23872,7 @@
       },
       {
         "id": "10_m_9_041",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A tree is broken by the wind. The top strikes the ground at an angle of 45° and at a distance of 15 m from the root. Find the original height of the tree.",
         "type": "multipleChoice",
         "options": ["15(√2 - 1) m", "15(√2 + 1) m", "30 m", "15√3 m"],
@@ -23885,7 +23885,7 @@
       },
       {
         "id": "10_m_9_042",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a window 15 m high above the ground, the angles of elevation and depression of the top and foot of another house on the opposite side of the street are 30° and 45° respectively. Find the height of the opposite house.",
         "type": "multipleChoice",
         "options": ["5(3 + √3) m", "15√3 m", "15(1 + √3) m", "5(√3 - 1) m"],
@@ -23898,7 +23898,7 @@
       },
       {
         "id": "10_m_9_043",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angle of elevation of a cloud from a point 10 m above a lake is 30° and the angle of depression of its reflection in the lake is 60°. What is the height of the cloud from the surface of the lake?",
         "type": "multipleChoice",
         "options": ["20 m", "30 m", "40 m", "60 m"],
@@ -23911,7 +23911,7 @@
       },
       {
         "id": "10_m_9_044",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "An observer from the top of a 75 m high lighthouse observes two ships at angles of depression of 30° and 45° on the same side. What is the distance between the two ships?",
         "type": "multipleChoice",
         "options": ["75(√3 + 1) m", "75(√3 - 1) m", "75 m", "150 m"],
@@ -23924,7 +23924,7 @@
       },
       {
         "id": "10_m_9_045",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The upper part of a tree is broken by wind and makes an angle of 60° with the ground. The distance from the foot to the point where the top touches the ground is 10 m. What was the total height of the tree?",
         "type": "multipleChoice",
         "options": ["10√3 + 20 m", "10√3 + 10 m", "20√3 + 10 m", "30 m"],
@@ -23937,7 +23937,7 @@
       },
       {
         "id": "10_m_9_046",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From the top of a building 60 m high, the angles of depression of the top and bottom of a tower are observed to be 30° and 60° respectively. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["20 m", "30 m", "40 m", "50 m"],
@@ -23950,7 +23950,7 @@
       },
       {
         "id": "10_m_9_047",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "If the height of a pole is 2√3 m and the length of its shadow is 2 m, find the angle of elevation of the sun.",
         "type": "multipleChoice",
         "options": ["30°", "45°", "60°", "90°"],
@@ -23963,7 +23963,7 @@
       },
       {
         "id": "10_m_9_048",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A man on the deck of a ship is 10 m above the water level. He observes the angle of elevation of the top of a cliff as 45° and the angle of depression of the base as 30°. What is the height of the cliff?",
         "type": "multipleChoice",
         "options": ["10(√3 - 1) m", "10(√3 + 1) m", "10√3 m", "20 m"],
@@ -23976,7 +23976,7 @@
       },
       {
         "id": "10_m_9_049",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A kite string is 120 m long and makes an angle of 45° with the horizontal. Find the height of the kite assuming there is no slack in the string.",
         "type": "multipleChoice",
         "options": ["60 m", "60√2 m", "60√3 m", "120√2 m"],
@@ -23989,7 +23989,7 @@
       },
       {
         "id": "10_m_9_050",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "Two poles of equal height stand on either side of a 100 m wide road. The angles of elevation of their tops from a point between them on the road are 30° and 60°. Find the height of the poles.",
         "type": "multipleChoice",
         "options": ["25 m", "25√3 m", "50 m", "50√3 m"],
@@ -24003,7 +24003,7 @@
 
       {
         "id": "10_m_9_001",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The shadow of a vertical tower on level ground increases by 40 m when the altitude of the sun changes from 60° to 30°. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["20√3 m", "10√3 m", "30√3 m", "40√3 m"],
@@ -24016,7 +24016,7 @@
       },
       {
         "id": "10_m_9_002",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The shadow of a tower standing on a level plane is found to be 10 m longer when the sun's altitude is 30° than when it is 45°. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["5(√3 + 1) m", "5(√3 - 1) m", "10(√3 + 1) m", "10(√3 - 1) m"],
@@ -24029,7 +24029,7 @@
       },
       {
         "id": "10_m_9_003",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A tower's shadow increases by 20 m when the sun's altitude decreases from 60° to 45°. What is the height of the tower?",
         "type": "multipleChoice",
         "options": ["10(3 + √3) m", "10(3 - √3) m", "20(√3 + 1) m", "10(√3 + 1) m"],
@@ -24042,7 +24042,7 @@
       },
       {
         "id": "10_m_9_004",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "If the length of the shadow of a tower increases by 60 m when the sun's altitude changes from 60° to 30°, find the height of the tower.",
         "type": "multipleChoice",
         "options": ["30√3 m", "20√3 m", "40√3 m", "15√3 m"],
@@ -24055,7 +24055,7 @@
       },
       {
         "id": "10_m_9_005",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The shadow of a tower increases by 20 m when the sun's angle of elevation drops from 45° to 30°. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["10(√3 + 1) m", "10(√3 - 1) m", "20(√3 + 1) m", "5(√3 + 1) m"],
@@ -24068,7 +24068,7 @@
       },
       {
         "id": "10_m_9_006",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A tower's shadow is 30 m longer when the sun's altitude is 45° compared to when it is 60°. Calculate the height of the tower.",
         "type": "multipleChoice",
         "options": ["15(3 + √3) m", "10(3 + √3) m", "15(√3 + 1) m", "30(√3 - 1) m"],
@@ -24081,7 +24081,7 @@
       },
       {
         "id": "10_m_9_007",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "An aeroplane is flying horizontally at a height of 1500√3 m. The angle of elevation from a point on the ground changes from 60° to 30° in 15 seconds. Find the speed of the aeroplane.",
         "type": "multipleChoice",
         "options": ["720 km/h", "864 km/h", "900 km/h", "600 km/h"],
@@ -24094,7 +24094,7 @@
       },
       {
         "id": "10_m_9_008",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "An aeroplane at an altitude of 3600√3 m observes its angle of elevation from a point on the ground change from 60° to 30° in 30 seconds. Determine the speed of the plane.",
         "type": "multipleChoice",
         "options": ["864 km/h", "720 km/h", "1080 km/h", "900 km/h"],
@@ -24107,7 +24107,7 @@
       },
       {
         "id": "10_m_9_009",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "An aeroplane flying horizontally at 2000√3 m altitude sees its angle of elevation drop from 60° to 30° in 20 seconds. What is the speed of the aeroplane?",
         "type": "multipleChoice",
         "options": ["720 km/h", "864 km/h", "540 km/h", "600 km/h"],
@@ -24120,7 +24120,7 @@
       },
       {
         "id": "10_m_9_010",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "At a height of 1000√3 m, an aeroplane's angle of elevation changes from 60° to 30° in 10 seconds. Find the speed.",
         "type": "multipleChoice",
         "options": ["720 km/h", "540 km/h", "900 km/h", "864 km/h"],
@@ -24133,7 +24133,7 @@
       },
       {
         "id": "10_m_9_011",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "Two aeroplanes are flying vertically one above the other. From a point on the ground, the angles of elevation of the upper and lower planes are 60° and 45° respectively. If the lower plane is at 3000 m, find the vertical distance between them.",
         "type": "multipleChoice",
         "options": ["3000(√3 - 1) m", "3000(√3 + 1) m", "1500(√3 - 1) m", "3000√3 m"],
@@ -24146,7 +24146,7 @@
       },
       {
         "id": "10_m_9_012",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a point on the ground, the angles of elevation of two aeroplanes, one vertically above the other, are 60° and 30°. If the lower plane is at an altitude of 1000 m, find the vertical distance between them.",
         "type": "multipleChoice",
         "options": ["2000 m", "3000 m", "1000(√3 - 1) m", "2000√3 m"],
@@ -24159,7 +24159,7 @@
       },
       {
         "id": "10_m_9_013",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "Two planes fly vertically one above the other. From a point on the ground, their elevations are 60° and 45°. If the lower plane is at 1500 m, find the vertical distance between them.",
         "type": "multipleChoice",
         "options": ["1500(√3 - 1) m", "1500(√3 + 1) m", "3000(√3 - 1) m", "1500√3 m"],
@@ -24172,7 +24172,7 @@
       },
       {
         "id": "10_m_9_014",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a point on the ground, the angles of elevation of an upper and lower plane are 60° and 30° respectively. If the lower plane is at 2000 m, find the vertical distance separating them.",
         "type": "multipleChoice",
         "options": ["4000 m", "6000 m", "2000√3 m", "4000√3 m"],
@@ -24185,7 +24185,7 @@
       },
       {
         "id": "10_m_9_015",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "Two poles of equal height stand opposite each other on either side of an 80 m wide road. From a point between them on the road, the angles of elevation of their tops are 60° and 30°. Find the height of the poles.",
         "type": "multipleChoice",
         "options": ["20√3 m", "40√3 m", "10√3 m", "30√3 m"],
@@ -24198,7 +24198,7 @@
       },
       {
         "id": "10_m_9_016",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "Two pillars of equal height are on either side of a 100 m wide road. The angles of elevation of their tops from a point on the road are 60° and 30°. Find the height of the pillars.",
         "type": "multipleChoice",
         "options": ["25√3 m", "50√3 m", "20√3 m", "30√3 m"],
@@ -24211,7 +24211,7 @@
       },
       {
         "id": "10_m_9_017",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "Two pillars of equal height stand on either side of a 120 m wide road. From a point between them, the angles of elevation are 60° and 30°. Find the height of the pillars.",
         "type": "multipleChoice",
         "options": ["30√3 m", "40√3 m", "20√3 m", "60√3 m"],
@@ -24224,7 +24224,7 @@
       },
       {
         "id": "10_m_9_018",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "Two poles of equal height are on either side of a 60 m wide road. From a point between them, the angles of elevation are 60° and 30°. Find the height of the poles.",
         "type": "multipleChoice",
         "options": ["15√3 m", "20√3 m", "30√3 m", "10√3 m"],
@@ -24237,7 +24237,7 @@
       },
       {
         "id": "10_m_9_019",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From the top of a 7 m high building, the angle of elevation of the top of a cable tower is 60° and the angle of depression of its foot is 45°. Determine the height of the tower.",
         "type": "multipleChoice",
         "options": ["7(√3 + 1) m", "7(√3 - 1) m", "14√3 m", "7√3 m"],
@@ -24250,7 +24250,7 @@
       },
       {
         "id": "10_m_9_020",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From the top of a 10 m high building, the angle of elevation of a tower's top is 60° and the angle of depression of its foot is 30°. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["40 m", "30 m", "50 m", "20 m"],
@@ -24263,7 +24263,7 @@
       },
       {
         "id": "10_m_9_021",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From the top of a 15 m high building, the angle of elevation of the top of a cable tower is 60° and the angle of depression of its foot is 45°. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["15(√3 + 1) m", "15(√3 - 1) m", "30(√3 + 1) m", "15√3 m"],
@@ -24276,7 +24276,7 @@
       },
       {
         "id": "10_m_9_022",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From the top of a 20 m high building, the angle of elevation of a tower's top is 60° and the depression of its foot is 30°. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["80 m", "60 m", "100 m", "40 m"],
@@ -24289,7 +24289,7 @@
       },
       {
         "id": "10_m_9_023",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angle of elevation of a cloud from a point 60 m above a lake is 30°, and the angle of depression of the reflection of the cloud in the lake is 60°. Find the height of the cloud from the surface of the lake.",
         "type": "multipleChoice",
         "options": ["120 m", "180 m", "150 m", "90 m"],
@@ -24302,7 +24302,7 @@
       },
       {
         "id": "10_m_9_024",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a point 20 m above a lake, the angle of elevation of a cloud is 30° and the depression of its reflection is 60°. Find the height of the cloud.",
         "type": "multipleChoice",
         "options": ["40 m", "60 m", "80 m", "100 m"],
@@ -24315,7 +24315,7 @@
       },
       {
         "id": "10_m_9_025",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angle of elevation of a cloud from a point 100 m above a lake is 30° and the depression of its reflection is 60°. What is the height of the cloud?",
         "type": "multipleChoice",
         "options": ["200 m", "300 m", "150 m", "400 m"],
@@ -24328,7 +24328,7 @@
       },
       {
         "id": "10_m_9_026",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a point 50 m above a lake, the elevation of a cloud is 30° and the depression of its reflection is 60°. Find the direct distance of the cloud from the point of observation.",
         "type": "multipleChoice",
         "options": ["100 m", "150 m", "50√3 m", "200 m"],
@@ -24341,7 +24341,7 @@
       },
       {
         "id": "10_m_9_027",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A car is approaching a tower. Its angle of elevation to the top of the tower changes from 30° to 60° in 6 seconds. How much more time will it take to reach the base of the tower?",
         "type": "multipleChoice",
         "options": ["3 seconds", "2 seconds", "4 seconds", "1.5 seconds"],
@@ -24354,7 +24354,7 @@
       },
       {
         "id": "10_m_9_028",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A car moving at a uniform speed approaches a tower. The angle of elevation changes from 30° to 45° in 10 minutes. How much more time will it take to reach the base of the tower?",
         "type": "multipleChoice",
         "options": ["5(√3 + 1) minutes", "10(√3 + 1) minutes", "5(√3 - 1) minutes", "10(√3 - 1) minutes"],
@@ -24367,7 +24367,7 @@
       },
       {
         "id": "10_m_9_029",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A boat approaching a cliff observes the angle of elevation change from 30° to 45° in 8 minutes. Find the additional time required to reach the shore.",
         "type": "multipleChoice",
         "options": ["4(√3 + 1) minutes", "8(√3 + 1) minutes", "4(√3 - 1) minutes", "8(√3 - 1) minutes"],
@@ -24380,7 +24380,7 @@
       },
       {
         "id": "10_m_9_030",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A car approaching a tower observes the elevation change from 30° to 60° in 10 seconds. How much more time will it take to reach the base?",
         "type": "multipleChoice",
         "options": ["5 seconds", "10 seconds", "20 seconds", "2.5 seconds"],
@@ -24393,7 +24393,7 @@
       },
       {
         "id": "10_m_9_031",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A statue 1.6 m tall stands on the top of a pedestal. From a point on the ground, the angle of elevation of the top of the statue is 60° and the angle of elevation of the top of the pedestal is 45°. Find the height of the pedestal.",
         "type": "multipleChoice",
         "options": ["0.8(√3 + 1) m", "1.6(√3 + 1) m", "0.8(√3 - 1) m", "1.6(√3 - 1) m"],
@@ -24406,7 +24406,7 @@
       },
       {
         "id": "10_m_9_032",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A statue 2 m tall stands on a pedestal. From a point on the ground, the elevations of the top of the statue and the top of the pedestal are 60° and 45° respectively. Find the height of the pedestal.",
         "type": "multipleChoice",
         "options": ["(√3 + 1) m", "2(√3 + 1) m", "(√3 - 1) m", "2(√3 - 1) m"],
@@ -24419,7 +24419,7 @@
       },
       {
         "id": "10_m_9_033",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A flagstaff 7 m high stands on a building. From a point on the ground, the angle of elevation of the bottom of the flagstaff is 45° and that of the top is 60°. Find the height of the building.",
         "type": "multipleChoice",
         "options": ["3.5(√3 + 1) m", "7(√3 + 1) m", "3.5(√3 - 1) m", "7(√3 - 1) m"],
@@ -24432,7 +24432,7 @@
       },
       {
         "id": "10_m_9_034",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A flagstaff 5 m tall is fixed on a tower. From a point on the ground, the elevations of the bottom and top of the flagstaff are 45° and 60° respectively. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["2.5(√3 + 1) m", "5(√3 + 1) m", "2.5(√3 - 1) m", "5(√3 - 1) m"],
@@ -24445,7 +24445,7 @@
       },
       {
         "id": "10_m_9_035",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A tree breaks due to storm and the broken part bends so that the top of the tree touches the ground making an angle of 30° with it. The distance from the foot of the tree to the point where the top touches the ground is 8 m. Find the original height of the tree.",
         "type": "multipleChoice",
         "options": ["8√3 m", "16√3 m", "24√3 m", "12√3 m"],
@@ -24458,7 +24458,7 @@
       },
       {
         "id": "10_m_9_036",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A broken tree's top touches the ground at an angle of 60°, at a distance of 10 m from the base. What was the original height of the tree?",
         "type": "multipleChoice",
         "options": ["10√3 + 20 m", "20√3 + 10 m", "30 m", "10√3 + 10 m"],
@@ -24471,7 +24471,7 @@
       },
       {
         "id": "10_m_9_037",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A tree breaks in a storm and its top touches the ground 15 m from the base, making an angle of 30°. Find the total height of the tree before it broke.",
         "type": "multipleChoice",
         "options": ["15√3 m", "20√3 m", "10√3 m", "30√3 m"],
@@ -24484,7 +24484,7 @@
       },
       {
         "id": "10_m_9_038",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A storm breaks a tree, and its top strikes the ground at an angle of 45°, 20 m away from the foot of the tree. Determine the original height of the tree.",
         "type": "multipleChoice",
         "options": ["20(√2 + 1) m", "20√2 m", "40 m", "10(√2 + 1) m"],
@@ -24497,7 +24497,7 @@
       },
       {
         "id": "10_m_9_039",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a window 15 m high above the ground, the angle of elevation of the top of an opposite house is 45° and the angle of depression of its base is 30°. Find the height of the opposite house.",
         "type": "multipleChoice",
         "options": ["15(√3 + 1) m", "15√3 m", "15(√3 - 1) m", "30 m"],
@@ -24510,7 +24510,7 @@
       },
       {
         "id": "10_m_9_040",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a window 60 m high, the angle of elevation of the top of a building is 60° and the angle of depression of its base is 45°. Find the height of the building.",
         "type": "multipleChoice",
         "options": ["60(√3 + 1) m", "60(√3 - 1) m", "120 m", "60√3 m"],
@@ -24523,7 +24523,7 @@
       },
       {
         "id": "10_m_9_041",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a 20 m high window, the elevation of a tower's top is 45° and the depression of its base is 30°. What is the height of the tower?",
         "type": "multipleChoice",
         "options": ["20(√3 + 1) m", "20(√3 - 1) m", "40 m", "20√3 m"],
@@ -24536,7 +24536,7 @@
       },
       {
         "id": "10_m_9_042",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From the top of a 50 m high tower, the angles of depression of the top and bottom of a pole are 30° and 45° respectively. Find the height of the pole.",
         "type": "multipleChoice",
         "options": ["50(3 - √3)/3 m", "50(√3 - 1) m", "50(3 + √3)/3 m", "25 m"],
@@ -24549,7 +24549,7 @@
       },
       {
         "id": "10_m_9_043",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angle of elevation of a tower from the base of a building is 60°, and the angle of elevation of the building from the base of the tower is 30°. If the building is 20 m high, find the height of the tower.",
         "type": "multipleChoice",
         "options": ["60 m", "40 m", "80 m", "50 m"],
@@ -24562,7 +24562,7 @@
       },
       {
         "id": "10_m_9_044",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The elevation of a tower from a building's base is 60°, and the building's elevation from the tower's base is 45°. If the building is 30 m high, what is the height of the tower?",
         "type": "multipleChoice",
         "options": ["30√3 m", "60 m", "90 m", "30 m"],
@@ -24575,7 +24575,7 @@
       },
       {
         "id": "10_m_9_045",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The elevation of a tower from a building's base is 60° and the building's elevation from the tower's base is 30°. If the building is 15 m high, find the height of the tower.",
         "type": "multipleChoice",
         "options": ["45 m", "30 m", "60 m", "45√3 m"],
@@ -24588,7 +24588,7 @@
       },
       {
         "id": "10_m_9_046",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The elevation of a tower from a building's base is 45° and the building's elevation from the tower's base is 30°. If the building is 50 m high, find the height of the tower.",
         "type": "multipleChoice",
         "options": ["50√3 m", "100 m", "150 m", "50 m"],
@@ -24601,7 +24601,7 @@
       },
       {
         "id": "10_m_9_047",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A ladder rests against a wall at an angle of 60°. If its foot is pulled 4 m away from the wall, the angle becomes 30°. What is the length of the ladder?",
         "type": "multipleChoice",
         "options": ["4(√3 + 1) m", "2(√3 + 1) m", "8 m", "4√3 m"],
@@ -24614,7 +24614,7 @@
       },
       {
         "id": "10_m_9_048",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A ladder rests against a wall making an angle of 60° with the ground. When the foot is pulled away by 2 m, the angle becomes 30°. Find the length of the ladder.",
         "type": "multipleChoice",
         "options": ["2(√3 + 1) m", "4 m", "4(√3 + 1) m", "2√3 m"],
@@ -24627,7 +24627,7 @@
       },
       {
         "id": "10_m_9_049",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A ladder rests against a wall at an angle of 60°. When pulled 3 m away, the angle changes to 45°. Find the length of the ladder.",
         "type": "multipleChoice",
         "options": ["6(√2 + 1) m", "3(√2 + 1) m", "6(√3 + 1) m", "3(√3 + 1) m"],
@@ -24640,7 +24640,7 @@
       },
       {
         "id": "10_m_9_050",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angles of elevation of the top of a tower from two points at distances a and b from the base and in the same straight line with it are complementary. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["√(ab)", "ab", "(a+b)/2", "a/b"],
@@ -24653,7 +24653,7 @@
       },
       {
         "id": "10_m_9_051",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angles of elevation of a tower from two points 4 m and 9 m away from the base are complementary. What is the height of the tower?",
         "type": "multipleChoice",
         "options": ["6 m", "36 m", "5 m", "13 m"],
@@ -24666,7 +24666,7 @@
       },
       {
         "id": "10_m_9_052",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angles of elevation of a tower from two points at distances 16 m and 25 m from the base are complementary. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["20 m", "40 m", "41 m", "12 m"],
@@ -24679,7 +24679,7 @@
       },
       {
         "id": "10_m_9_053",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "The angles of elevation of the top of a tower from distances 9 m and 25 m are complementary. Find the height of the tower.",
         "type": "multipleChoice",
         "options": ["15 m", "34 m", "17 m", "20 m"],
@@ -24692,7 +24692,7 @@
       },
       {
         "id": "10_m_9_054",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A 1.5 m tall boy is standing at some distance from a 30 m tall building. The angle of elevation to the top of the building increases from 30° to 60° as he walks towards it. Find the distance he walked towards the building.",
         "type": "multipleChoice",
         "options": ["19√3 m", "19 m", "38√3 m", "57 m"],
@@ -24705,7 +24705,7 @@
       },
       {
         "id": "10_m_9_055",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A 1.2 m tall boy observes a 25.2 m tall building. The angle of elevation increases from 30° to 60° as he walks towards the building. How much distance did he walk?",
         "type": "multipleChoice",
         "options": ["16√3 m", "24√3 m", "8√3 m", "32 m"],
@@ -24718,7 +24718,7 @@
       },
       {
         "id": "10_m_9_056",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From the top of a 100 m high lighthouse, the angles of depression of two ships on opposite sides are 30° and 45°. Find the distance between the ships.",
         "type": "multipleChoice",
         "options": ["100(√3 + 1) m", "100(√3 - 1) m", "200 m", "100√3 m"],
@@ -24731,7 +24731,7 @@
       },
       {
         "id": "10_m_9_057",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From the top of a 150 m high lighthouse, the angles of depression of two ships on the same side are 60° and 45°. What is the distance between the ships?",
         "type": "multipleChoice",
         "options": ["50(3 - √3) m", "150(√3 - 1) m", "50(√3 + 1) m", "150(√3 + 1) m"],
@@ -24744,7 +24744,7 @@
       },
       {
         "id": "10_m_9_058",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "From a 75 m high lighthouse, the angles of depression of two ships on the same side are 30° and 45°. Find the distance between the ships.",
         "type": "multipleChoice",
         "options": ["75(√3 - 1) m", "75(√3 + 1) m", "25(3 - √3) m", "25(√3 + 1) m"],
@@ -24757,7 +24757,7 @@
       },
       {
         "id": "10_m_9_059",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A bird is sitting on the top of a 80 m high tree. From a point on the ground, the angle of elevation is 45°. The bird flies horizontally away from the observer. After 2 seconds, the angle of elevation is 30°. Find the speed of the bird.",
         "type": "multipleChoice",
         "options": ["40(√3 - 1) m/s", "80(√3 - 1) m/s", "40(√3 + 1) m/s", "20(√3 - 1) m/s"],
@@ -24770,7 +24770,7 @@
       },
       {
         "id": "10_m_9_060",
-        "chapterName": "Some Applications of Trigonometry",
+        "chapterName": "Applications of Trigonometry",
         "questionText": "A bird sitting on a 60 m high tree is observed at an angle of elevation of 60°. It flies horizontally away, and after 4 seconds, the angle of elevation is 30°. What is the speed of the bird?",
         "type": "multipleChoice",
         "options": ["10√3 m/s", "20√3 m/s", "5√3 m/s", "15√3 m/s"],
@@ -24784,7 +24784,7 @@
 
         {
           "id": "10_m_9_01",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "An aeroplane flying horizontally at a height of 3600√3 m from the ground is observed at an angle of elevation of 60°. After a flight of 30 seconds, the angle of elevation changes to 30°. Find the speed of the aeroplane in km/h.",
           "type": "multipleChoice",
           "options": ["720 km/h", "864 km/h", "900 km/h", "1024 km/h"],
@@ -24797,7 +24797,7 @@
         },
         {
           "id": "10_m_9_02",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "An aeroplane flying at a constant height of 1500√3 m is observed at an angle of elevation of 60°. After 15 seconds, the angle of elevation becomes 30°. What is the speed of the aeroplane in m/s?",
           "type": "multipleChoice",
           "options": ["150 m/s", "200 m/s", "250 m/s", "300 m/s"],
@@ -24810,7 +24810,7 @@
         },
         {
           "id": "10_m_9_03",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A car is moving towards a vertical tower. The angle of elevation of the top of the tower from the car changes from 30° to 60° in 12 minutes. Assuming uniform speed, how much more time will the car take to reach the base of the tower?",
           "type": "multipleChoice",
           "options": ["3 minutes", "4 minutes", "6 minutes", "8 minutes"],
@@ -24823,7 +24823,7 @@
         },
         {
           "id": "10_m_9_04",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A car moving at a uniform speed towards a tower observes the angle of elevation to the top changing from 45° to 60° in 10 minutes. How much further time will it take to reach the tower's base?",
           "type": "multipleChoice",
           "options": ["5(√3 - 1) minutes", "5(√3 + 1) minutes", "10(√3 - 1) minutes", "10(√3 + 1) minutes"],
@@ -24836,7 +24836,7 @@
         },
         {
           "id": "10_m_9_05",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "From the top of a lighthouse, the angle of depression of a boat moving directly towards it changes from 30° to 45° in 10 minutes. How long will the boat take to reach the lighthouse from its current position?",
           "type": "multipleChoice",
           "options": ["5(√3 + 1) minutes", "5(√3 - 1) minutes", "10(√3 + 1) minutes", "10(√3 - 1) minutes"],
@@ -24849,7 +24849,7 @@
         },
         {
           "id": "10_m_9_06",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The shadow of a vertical tower on level ground increases by 20 meters when the altitude of the sun changes from 60° to 30°. Find the height of the tower.",
           "type": "multipleChoice",
           "options": ["10√3 m", "20√3 m", "15√3 m", "30 m"],
@@ -24862,7 +24862,7 @@
         },
         {
           "id": "10_m_9_07",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The length of the shadow of a post increases by 40 m when the sun's altitude decreases from 45° to 30°. What is the height of the post?",
           "type": "multipleChoice",
           "options": ["20(√3 - 1) m", "20(√3 + 1) m", "40(√3 - 1) m", "40(√3 + 1) m"],
@@ -24875,7 +24875,7 @@
         },
         {
           "id": "10_m_9_08",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "If the length of the shadow of a tower decreases by 20 m when the angle of elevation of the sun changes from 30° to 45°, find the height of the tower.",
           "type": "multipleChoice",
           "options": ["10(√3 + 1) m", "10(√3 - 1) m", "20(√3 + 1) m", "20(√3 - 1) m"],
@@ -24888,7 +24888,7 @@
         },
         {
           "id": "10_m_9_09",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A man on top of a 50 m high tower observes two cars on the same side of the tower in the same straight line. The angles of depression are 30° and 60°. Find the distance between the two cars.",
           "type": "multipleChoice",
           "options": ["50√3 m", "100/√3 m", "50/√3 m", "100√3 m"],
@@ -24901,7 +24901,7 @@
         },
         {
           "id": "10_m_9_10",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "From the top of a 100 m high lighthouse, the angles of depression of two ships on opposite sides of the lighthouse are 30° and 45°. Find the distance between the ships.",
           "type": "multipleChoice",
           "options": ["100(√3 - 1) m", "100(√3 + 1) m", "100√3 m", "50(√3 + 1) m"],
@@ -24914,7 +24914,7 @@
         },
         {
           "id": "10_m_9_11",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angle of elevation of a cloud from a point 60 m above a lake is 30°, and the angle of depression of its reflection in the lake is 60°. Find the height of the cloud from the surface of the lake.",
           "type": "multipleChoice",
           "options": ["100 m", "120 m", "150 m", "180 m"],
@@ -24927,7 +24927,7 @@
         },
         {
           "id": "10_m_9_12",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angle of elevation of a cloud from a point 20 m above a lake is 45°, and the angle of depression of its reflection is 60°. What is the height of the cloud above the lake?",
           "type": "multipleChoice",
           "options": ["20(2 + √3) m", "20(√3 - 1) m", "10(2 + √3) m", "40(√3 + 1) m"],
@@ -24940,7 +24940,7 @@
         },
         {
           "id": "10_m_9_13",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "From a point 200 m above a lake, the angle of elevation of a cloud is 30° and the angle of depression of its reflection is 45°. Find the height of the cloud above the lake.",
           "type": "multipleChoice",
           "options": ["100(√3 + 2) m", "200(√3 + 2) m", "200(√3 + 1) m", "100(√3 + 1) m"],
@@ -24953,7 +24953,7 @@
         },
         {
           "id": "10_m_9_14",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angle of elevation of a cloud from a point 10 m above a lake is 30°, and the depression of its reflection is 60°. Find the distance of the cloud from the observer.",
           "type": "multipleChoice",
           "options": ["10 m", "20 m", "30 m", "40 m"],
@@ -24966,7 +24966,7 @@
         },
         {
           "id": "10_m_9_15",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "If the angle of elevation of a cloud from a point h meters above a lake is α, and the angle of depression of its reflection is β, what is the formula for the height of the cloud above the lake?",
           "type": "multipleChoice",
           "options": ["h(tan β + tan α) / (tan β - tan α)", "h(tan β - tan α) / (tan β + tan α)", "h(cot β + cot α) / (cot β - cot α)", "h(sin β + sin α) / (sin β - sin α)"],
@@ -24979,7 +24979,7 @@
         },
         {
           "id": "10_m_9_16",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angles of elevation of the top of a tower from two points at distances of 4 m and 9 m from the base, in the same straight line, are complementary. Find the height of the tower.",
           "type": "multipleChoice",
           "options": ["5 m", "6 m", "7 m", "36 m"],
@@ -24992,7 +24992,7 @@
         },
         {
           "id": "10_m_9_17",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angles of elevation of a tower from two points at distances 16 m and 25 m from its base are complementary. What is the height of the tower?",
           "type": "multipleChoice",
           "options": ["20 m", "41 m", "400 m", "12 m"],
@@ -25005,7 +25005,7 @@
         },
         {
           "id": "10_m_9_18",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angles of elevation of the top of a structure from two points 'a' and 'b' meters from the base are complementary. Which of the following expresses its height?",
           "type": "multipleChoice",
           "options": ["(a+b)/2", "√(a² + b²)", "√(ab)", "ab"],
@@ -25018,7 +25018,7 @@
         },
         {
           "id": "10_m_9_19",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angles of elevation of a building from two points at distances 18 m and 32 m from its foot are complementary. Find the height of the building.",
           "type": "multipleChoice",
           "options": ["20 m", "24 m", "25 m", "30 m"],
@@ -25031,7 +25031,7 @@
         },
         {
           "id": "10_m_9_20",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angles of elevation of a 6 m tall tower from two points at distances p and q from the base are complementary. If p + q = 13, and p > q, find the values of p and q.",
           "type": "multipleChoice",
           "options": ["p = 10, q = 3", "p = 9, q = 4", "p = 8, q = 5", "p = 7, q = 6"],
@@ -25044,7 +25044,7 @@
         },
         {
           "id": "10_m_9_21",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "Two poles of equal heights are standing opposite each other on either side of a road, which is 80 m wide. From a point between them on the road, the angles of elevation of the top of the poles are 60° and 30°. Find the height of the poles.",
           "type": "multipleChoice",
           "options": ["10√3 m", "20√3 m", "30√3 m", "40√3 m"],
@@ -25057,7 +25057,7 @@
         },
         {
           "id": "10_m_9_22",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "Two poles of equal height stand on either side of a 120 m wide road. From a point between them, the elevations of their tops are 60° and 30°. How far is this point from the pole with the 60° elevation?",
           "type": "multipleChoice",
           "options": ["30 m", "40 m", "60 m", "90 m"],
@@ -25070,7 +25070,7 @@
         },
         {
           "id": "10_m_9_23",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "Two poles of equal heights are standing on opposite sides of a 100 m wide road. From a point between them, the angles of elevation of the tops are 60° and 30°. Find the height of the poles.",
           "type": "multipleChoice",
           "options": ["20√3 m", "25√3 m", "30√3 m", "50√3 m"],
@@ -25083,7 +25083,7 @@
         },
         {
           "id": "10_m_9_24",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "Two poles of heights 20 m and 14 m are tied with a wire extending from their tops. If the wire makes an angle of 30° with the horizontal, find the length of the wire.",
           "type": "multipleChoice",
           "options": ["8 m", "10 m", "12 m", "14 m"],
@@ -25096,7 +25096,7 @@
         },
         {
           "id": "10_m_9_25",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "Two poles of height 'a' and 'b' meters stand vertically on a horizontal plane. What is the height of the intersection point of the lines joining the top of each pole to the foot of the opposite pole?",
           "type": "multipleChoice",
           "options": ["ab / (a+b)", "(a+b) / ab", "√(ab)", "a²b² / (a+b)"],
@@ -25109,7 +25109,7 @@
         },
         {
           "id": "10_m_9_26",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "Two poles of heights 6 m and 11 m stand vertically on a plane ground. If the distance between their feet is 12 m, find the distance between their tops.",
           "type": "multipleChoice",
           "options": ["11 m", "12 m", "13 m", "14 m"],
@@ -25122,7 +25122,7 @@
         },
         {
           "id": "10_m_9_27",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "Two pillars of equal height stand on either side of a 150 m wide road. From a point between them, the elevations of their tops are 60° and 30°. Find the height of the pillars.",
           "type": "multipleChoice",
           "options": ["25√3 m", "37.5√3 m", "50√3 m", "75√3 m"],
@@ -25135,7 +25135,7 @@
         },
         {
           "id": "10_m_9_28",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "From the top of a 7 m high building, the angle of elevation of the top of a cable tower is 60° and the angle of depression of its foot is 45°. Determine the height of the tower.",
           "type": "multipleChoice",
           "options": ["7(√3 - 1) m", "7(√3 + 1) m", "14 m", "7√3 m"],
@@ -25148,7 +25148,7 @@
         },
         {
           "id": "10_m_9_29",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "From the top of an 8 m high building, the angle of elevation of the top of a tower is 60° and the angle of depression of its foot is 30°. Determine the total height of the tower.",
           "type": "multipleChoice",
           "options": ["24 m", "32 m", "40 m", "48 m"],
@@ -25161,7 +25161,7 @@
         },
         {
           "id": "10_m_9_30",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "From the top of a 60 m high tower, the angles of depression of the top and bottom of a building are observed to be 30° and 60° respectively. Find the height of the building.",
           "type": "multipleChoice",
           "options": ["20 m", "30 m", "40 m", "50 m"],
@@ -25174,7 +25174,7 @@
         },
         {
           "id": "10_m_9_31",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A flagstaff stands on top of a vertical tower. From a point 100 m away from the base, the angles of elevation of the top and bottom of the flagstaff are 60° and 45° respectively. Find the length of the flagstaff.",
           "type": "multipleChoice",
           "options": ["100(√3 - 1) m", "100(√3 + 1) m", "50(√3 - 1) m", "50(√3 + 1) m"],
@@ -25187,7 +25187,7 @@
         },
         {
           "id": "10_m_9_32",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A statue 1.6 m tall stands on top of a pedestal. From a point on the ground, the angle of elevation of the top of the statue is 60° and the angle of elevation of the top of the pedestal is 45°. Find the height of the pedestal.",
           "type": "multipleChoice",
           "options": ["0.8(√3 + 1) m", "0.8(√3 - 1) m", "1.6(√3 + 1) m", "1.6(√3 - 1) m"],
@@ -25200,7 +25200,7 @@
         },
         {
           "id": "10_m_9_33",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A statue 2 m tall stands on the top of a pedestal. From a point on the ground, the elevation of the top of the statue is 60° and the top of the pedestal is 45°. What is the height of the pedestal?",
           "type": "multipleChoice",
           "options": ["√3 - 1 m", "√3 + 1 m", "2(√3 - 1) m", "2(√3 + 1) m"],
@@ -25213,7 +25213,7 @@
         },
         {
           "id": "10_m_9_34",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "An unfinished tower stands on a horizontal field. At a distance of 120 m from its base, the angle of elevation of its top is 30°. How much higher must the tower be raised so that the angle of elevation at the same point becomes 60°?",
           "type": "multipleChoice",
           "options": ["40√3 m", "60√3 m", "80√3 m", "120√3 m"],
@@ -25226,7 +25226,7 @@
         },
         {
           "id": "10_m_9_35",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A TV tower stands vertically on a canal bank. From a point directly opposite on the other bank, the elevation of the top is 60°. From another point 20 m further away on the line joining this point to the tower, the elevation is 30°. Find the width of the canal.",
           "type": "multipleChoice",
           "options": ["10 m", "10√3 m", "20 m", "20√3 m"],
@@ -25239,7 +25239,7 @@
         },
         {
           "id": "10_m_9_36",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A tower stands vertically on a canal bank. From the opposite bank, the angle of elevation is 60°. From a point 10 m further back, the angle is 30°. Find the height of the tower.",
           "type": "multipleChoice",
           "options": ["5 m", "5√3 m", "10√3 m", "15 m"],
@@ -25252,7 +25252,7 @@
         },
         {
           "id": "10_m_9_37",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "From the top of a 7 m high building, the angle of elevation of the top of a cable tower is 60° and the angle of depression of its foot is 45°. Determine the total height of the cable tower.",
           "type": "multipleChoice",
           "options": ["7(√3 - 1) m", "14 m", "7(√3 + 1) m", "21 m"],
@@ -25265,7 +25265,7 @@
         },
         {
           "id": "10_m_9_38",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angle of elevation of a tower from point A is 30°. Moving 20 m towards the base, the angle of elevation becomes 60°. What is the height of the tower?",
           "type": "multipleChoice",
           "options": ["10√3 m", "20√3 m", "10 m", "30 m"],
@@ -25278,7 +25278,7 @@
         },
         {
           "id": "10_m_9_39",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A flagstaff of length h stands on a tower. From a point on the ground, the angles of elevation of the top and bottom of the flagstaff are β and α respectively. Which formula gives the height of the tower?",
           "type": "multipleChoice",
           "options": ["h tan α / (tan β - tan α)", "h tan β / (tan β - tan α)", "h(tan β - tan α) / tan α", "h / (tan β - tan α)"],
@@ -25291,7 +25291,7 @@
         },
         {
           "id": "10_m_9_40",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A 1.5 m tall boy is standing at a distance of 30 m from a 31.5 m tall building. What is the angle of elevation from his eyes to the top of the building?",
           "type": "multipleChoice",
           "options": ["30°", "45°", "60°", "75°"],
@@ -25304,7 +25304,7 @@
         },
         {
           "id": "10_m_9_41",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A tree breaks due to a storm and the broken part bends so that the top of the tree touches the ground making an angle of 30° with it. The distance from the foot of the tree to where the top touches the ground is 8 m. Find the original height of the tree.",
           "type": "multipleChoice",
           "options": ["8√3 m", "16√3 m", "24√3 m", "8 m"],
@@ -25317,7 +25317,7 @@
         },
         {
           "id": "10_m_9_42",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A tree breaks due to a storm, with the broken top touching the ground at an angle of 60°, exactly 5 m away from the base. What was the total height of the tree before it broke?",
           "type": "multipleChoice",
           "options": ["5(√3 + 2) m", "10√3 m", "15 m", "5(√3 + 1) m"],
@@ -25330,7 +25330,7 @@
         },
         {
           "id": "10_m_9_43",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A spherical balloon of radius r subtends an angle θ at the observer's eye, while the angle of elevation of its center is φ. What is the formula for the height of the center of the balloon?",
           "type": "multipleChoice",
           "options": ["r sin φ cosec(θ/2)", "r cos φ sec(θ/2)", "r sin φ sin(θ/2)", "r tan φ cot(θ/2)"],
@@ -25343,7 +25343,7 @@
         },
         {
           "id": "10_m_9_44",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A round balloon of radius r subtends an angle of 60° at the eye of an observer, while the angle of elevation of its center is 45°. Find the height of the center of the balloon.",
           "type": "multipleChoice",
           "options": ["r√2", "r√3", "2r", "r/√2"],
@@ -25356,7 +25356,7 @@
         },
         {
           "id": "10_m_9_45",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "From a window at height h above the ground, the angle of elevation and depression of the top and bottom of another house on the opposite side of the street are α and β respectively. What is the height of the opposite house?",
           "type": "multipleChoice",
           "options": ["h(1 + tan α cot β)", "h(1 - tan α cot β)", "h(tan α + cot β)", "h(1 + cot α tan β)"],
@@ -25369,7 +25369,7 @@
         },
         {
           "id": "10_m_9_46",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angle of elevation of a cliff from a fixed point is 45°. After going up a distance of 100 m towards the top of the cliff at an angle of 30°, the angle of elevation becomes 60°. Find the height of the cliff.",
           "type": "multipleChoice",
           "options": ["50(√3 + 1) m", "100(√3 + 1) m", "50(√3 - 1) m", "100(√3 - 1) m"],
@@ -25382,7 +25382,7 @@
         },
         {
           "id": "10_m_9_47",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "The angle of elevation of a tower is 30°. Moving 50 m towards it, the angle becomes 45°. Moving x meters further towards it, the angle becomes 60°. Find the value of x.",
           "type": "multipleChoice",
           "options": ["50/√3 m", "25√3 m", "50(√3 - 1) m", "25(√3 + 1) m"],
@@ -25395,7 +25395,7 @@
         },
         {
           "id": "10_m_9_48",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "Two ships are directly in line with a tower, positioned on opposite sides of it. Their angles of elevation to the top of the tower are α and β, and the distance between them is d. Which formula gives the height of the tower?",
           "type": "multipleChoice",
           "options": ["d / (cot α + cot β)", "d / (cot α - cot β)", "d(tan α + tan β)", "d / (tan α + tan β)"],
@@ -25408,7 +25408,7 @@
         },
         {
           "id": "10_m_9_49",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A 1.5 m tall boy is standing some distance from a 30 m tall building. The angle of elevation from his eyes to the top of the building increases from 30° to 60° as he walks towards the building. Find the distance he walked.",
           "type": "multipleChoice",
           "options": ["19√3 m", "28.5√3 m", "19 m", "38/√3 m"],
@@ -25421,7 +25421,7 @@
         },
         {
           "id": "10_m_9_50",
-          "chapterName": "Some Applications of Trigonometry",
+          "chapterName": "Applications of Trigonometry",
           "questionText": "A ladder resting against a vertical wall forms an angle α with the ground. If its foot is pulled away from the wall by distance a, it slides down by distance b, and the new angle with the ground becomes β. What is the ratio a/b?",
           "type": "multipleChoice",
           "options": ["(cos β - cos α) / (sin α - sin β)", "(sin α - sin β) / (cos β - cos α)", "(cos α - cos β) / (sin β - sin α)", "tan α / tan β"],
