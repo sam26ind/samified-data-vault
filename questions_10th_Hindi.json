@@ -2,13 +2,13 @@
   {
     "id": "10_h_10_001",
     "chapterName": "Netaji ka Chashma",
-    "questionText": "'नेताजी का चश्मा' पाठ के रचयिता (लेखक) कौन हैं?",
+    "questionText": "'Netaji ka Chashma' पाठ के रचयिता (लेखक) कौन हैं?",
     "type": "multipleChoice",
     "options": ["रामवृक्ष बेनीपुरी", "यशपाल", "स्वयं प्रकाश", "सर्वेश्वर दयाल सक्सेना"],
     "exactAnswer": "स्वयं प्रकाश",
     "explanationSteps": [
       "Step 1: पाठ के लेखक की पहचान करें।",
-      "Step 2: दसवीं कक्षा के क्षितिज (गद्य खंड) के अनुसार 'नेताजी का चश्मा' कहानी स्वयं प्रकाश जी द्वारा लिखी गई है।",
+      "Step 2: दसवीं कक्षा के क्षितिज (गद्य खंड) के अनुसार 'Netaji ka Chashma' कहानी स्वयं प्रकाश जी द्वारा लिखी गई है।",
       "Step 3: अतः सही उत्तर स्वयं प्रकाश है।"
     ]
   },
@@ -210,7 +210,7 @@
   {
     "id": "10_h_10_017",
     "chapterName": "Netaji ka Chashma",
-    "questionText": "पानवाले के अनुसार, मूर्तिकार (मास्टर मोतीलाल) ने नेताजी का चश्मा क्यों नहीं बनाया था?",
+    "questionText": "पानवाले के अनुसार, मूर्तिकार (मास्टर मोतीलाल) ने Netaji ka Chashma क्यों नहीं बनाया था?",
     "type": "multipleChoice",
     "options": ["मास्टर चश्मा बनाना भूल गया था", "पत्थर टूट गया था", "उसके पास चश्मा बनाने का समय नहीं था", "उसे चश्मा बनाना नहीं आता था"],
     "exactAnswer": "मास्टर चश्मा बनाना भूल गया था",
@@ -418,13 +418,13 @@
   {
     "id": "10_h_10_033",
     "chapterName": "Netaji ka Chashma",
-    "questionText": "हिंदी गद्य की विधाओं में 'नेताजी का चश्मा' किस विधा के अंतर्गत आता है?",
+    "questionText": "हिंदी गद्य की विधाओं में 'Netaji ka Chashma' किस विधा के अंतर्गत आता है?",
     "type": "multipleChoice",
     "options": ["कविता", "निबंध", "कहानी", "नाटक"],
     "exactAnswer": "कहानी",
     "explanationSteps": [
       "Step 1: पाठ की साहित्यिक विधा को पहचानें।",
-      "Step 2: 'नेताजी का चश्मा' स्वयं प्रकाश जी द्वारा रचित एक सुप्रसिद्ध कहानी है जिसमें पात्र और घटनाक्रम हैं।",
+      "Step 2: 'Netaji ka Chashma' स्वयं प्रकाश जी द्वारा रचित एक सुप्रसिद्ध कहानी है जिसमें पात्र और घटनाक्रम हैं।",
       "Step 3: इसलिए सही उत्तर 'कहानी' है।"
     ]
   },
@@ -496,7 +496,7 @@
   {
     "id": "10_h_10_039",
     "chapterName": "Netaji ka Chashma",
-    "questionText": "'नेताजी का चश्मा' कहानी का वास्तविक नायक (हीरो) किसे कहा जा सकता है?",
+    "questionText": "'Netaji ka Chashma' कहानी का वास्तविक नायक (हीरो) किसे कहा जा सकता है?",
     "type": "multipleChoice",
     "options": ["हालदार साहब को", "पानवाले को", "कैप्टन चश्मेवाले को", "मास्टर मोतीलाल को"],
     "exactAnswer": "कैप्टन चश्मेवाले को",
@@ -652,20 +652,20 @@
 
     {
       "id": "10_h_10_01",
-      "chapterName": "नेताजी का चश्मा",
-      "questionText": "'नेताजी का चश्मा' पाठ के लेखक का क्या नाम है?",
+      "chapterName": "Netaji ka Chashma",
+      "questionText": "'Netaji ka Chashma' पाठ के लेखक का क्या नाम है?",
       "type": "multipleChoice",
       "options": ["स्वयं प्रकाश", "रामवृक्ष बेनीपुरी", "यशपाल", "सर्वेश्वर दयाल सक्सेना"],
       "exactAnswer": "स्वयं प्रकाश",
       "explanationSteps": [
         "Step 1: Identify the literary text and its origin in the Class 10 syllabus.",
-        "Step 2: Recall the author associated with the prose 'नेताजी का चश्मा'.",
+        "Step 2: Recall the author associated with the prose 'Netaji ka Chashma'.",
         "Step 3: State the final conclusion safely that the author is स्वयं प्रकाश."
       ]
     },
     {
       "id": "10_h_10_02",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "हालदार साहब को हर पंद्रहवें दिन कस्बे से क्यों गुजरना पड़ता था?",
       "type": "multipleChoice",
       "options": ["घूमने के लिए", "कंपनी के काम के सिलसिले में", "रिश्तेदारों से मिलने", "पान खाने के लिए"],
@@ -678,7 +678,7 @@
     },
     {
       "id": "10_h_10_03",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कस्बे के मुख्य बाज़ार के मुख्य चौराहे पर किसकी मूर्ति लगी हुई थी?",
       "type": "multipleChoice",
       "options": ["महात्मा गांधी की", "भगत सिंह की", "नेताजी सुभाष चंद्र बोस की", "सरदार वल्लभभाई पटेल की"],
@@ -691,7 +691,7 @@
     },
     {
       "id": "10_h_10_04",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "नेताजी सुभाष चंद्र बोस की मूर्ति किस पदार्थ की बनी हुई थी?",
       "type": "multipleChoice",
       "options": ["तांबे की", "लोहे की", "संगमरमर की", "मिट्टी की"],
@@ -704,7 +704,7 @@
     },
     {
       "id": "10_h_10_05",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "नेताजी की मूर्ति बनाने का काम किसे सौंपा गया था?",
       "type": "multipleChoice",
       "options": ["देश के एक प्रसिद्ध मूर्तिकार को", "कस्बे के हाई स्कूल के इकलौते ड्रॉइंग मास्टर को", "नगरपालिका के अध्यक्ष को", "एक विदेशी कलाकार को"],
@@ -717,7 +717,7 @@
     },
     {
       "id": "10_h_10_06",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कस्बे के हाई स्कूल के ड्रॉइंग मास्टर का क्या नाम था?",
       "type": "multipleChoice",
       "options": ["सोहनलाल", "मोतीलाल", "रामलाल", "श्यामलाल"],
@@ -730,7 +730,7 @@
     },
     {
       "id": "10_h_10_07",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "नेताजी की मूर्ति में कौन-सी एक चीज़ की कमी रह गई थी?",
       "type": "multipleChoice",
       "options": ["नेताजी की टोपी नहीं थी", "नेताजी की वर्दी सही नहीं थी", "नेताजी की आँखों पर संगमरमर का चश्मा नहीं था", "मूर्ति के हाथ नहीं थे"],
@@ -743,7 +743,7 @@
     },
     {
       "id": "10_h_10_08",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "नेताजी की मूर्ति पर असली चश्मा कौन लगाता था?",
       "type": "multipleChoice",
       "options": ["हालदार साहब", "पानवाला", "कैप्टन चश्मेवाला", "नगरपालिका का अध्यक्ष"],
@@ -756,7 +756,7 @@
     },
     {
       "id": "10_h_10_09",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "हालदार साहब कस्बे में रुककर क्या करते थे?",
       "type": "multipleChoice",
       "options": ["चाय पीते थे", "पान खाते थे", "अखबार पढ़ते थे", "लोगों से बातें करते थे"],
@@ -769,7 +769,7 @@
     },
     {
       "id": "10_h_10_10",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन को पानवाला क्या कहकर बुलाता था?",
       "type": "multipleChoice",
       "options": ["देशभक्त", "पागल", "सिपाही", "नेता"],
@@ -782,7 +782,7 @@
     },
     {
       "id": "10_h_10_11",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन चश्मेवाला शारीरिक रूप से कैसा था?",
       "type": "multipleChoice",
       "options": ["मज़बूत और जवान", "बूढ़ा और लंगड़ा", "लंबा और स्वस्थ", "अंधा और कमज़ोर"],
@@ -795,7 +795,7 @@
     },
     {
       "id": "10_h_10_12",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "हालदार साहब को पानवाले की कौन-सी बात अच्छी नहीं लगी?",
       "type": "multipleChoice",
       "options": ["उसका पान खाना", "उसका झूठ बोलना", "एक देशभक्त का मज़ाक उड़ाना", "उसका बात करने का तरीका"],
@@ -808,7 +808,7 @@
     },
     {
       "id": "10_h_10_13",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "नेताजी का मूल चश्मा (संगमरमर का) क्यों नहीं बन पाया होगा?",
       "type": "multipleChoice",
       "options": ["मूर्तिकार बनाना भूल गया होगा", "संगमरमर उपलब्ध नहीं था", "मूर्तिकार की मृत्यु हो गई थी", "नगरपालिका ने मना कर दिया था"],
@@ -821,7 +821,7 @@
     },
     {
       "id": "10_h_10_14",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन चश्मेवाले का व्यवसाय क्या था?",
       "type": "multipleChoice",
       "options": ["उसकी एक बड़ी दुकान थी", "वह फेरी लगाकर चश्मे बेचता था", "वह सेना में सिपाही था", "वह स्कूल में मास्टर था"],
@@ -834,7 +834,7 @@
     },
     {
       "id": "10_h_10_15",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन नेताजी की मूर्ति का चश्मा क्यों बदल देता था?",
       "type": "multipleChoice",
       "options": ["उसे चश्मे बदलने का शौक था", "ग्राहक द्वारा मूर्ति पर लगे चश्मे की माँग करने पर", "वह नगरपालिका का कर्मचारी था", "पानवाले के कहने पर"],
@@ -847,7 +847,7 @@
     },
     {
       "id": "10_h_10_16",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कहानी के अनुसार 'कस्बा' कैसा था?",
       "type": "multipleChoice",
       "options": ["बहुत बड़ा शहर था", "एक छोटा-सा कस्बा था", "एक महानगर था", "एक निर्जन गाँव था"],
@@ -860,7 +860,7 @@
     },
     {
       "id": "10_h_10_17",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कस्बे में इनमें से क्या स्थित नहीं था?",
       "type": "multipleChoice",
       "options": ["लड़कों का स्कूल", "लड़कियों का स्कूल", "हवाई अड्डा", "सीमेंट का कारखाना"],
@@ -873,7 +873,7 @@
     },
     {
       "id": "10_h_10_18",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "पानवाले का स्वभाव कैसा था?",
       "type": "multipleChoice",
       "options": ["गुस्सैल और चिड़चिड़ा", "खुशमिज़ाज और मज़ाकिया", "गंभीर और शांत", "उदास और रोतलू"],
@@ -886,7 +886,7 @@
     },
     {
       "id": "10_h_10_19",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "हालदार साहब ने पहली बार मूर्ति पर कैसा चश्मा देखा था?",
       "type": "multipleChoice",
       "options": ["सोने के फ्रेम वाला", "चौकोर काले फ्रेम वाला", "गोल फ्रेम वाला", "सरकंडे का चश्मा"],
@@ -899,7 +899,7 @@
     },
     {
       "id": "10_h_10_20",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "नगरपालिका बोर्ड ने क्या काम करवाया था?",
       "type": "multipleChoice",
       "options": ["अस्पताल बनवाया था", "बाज़ार बनवाया था", "मुख्य चौराहे पर नेताजी की मूर्ति लगवाई थी", "पार्क बनवाया था"],
@@ -912,7 +912,7 @@
     },
     {
       "id": "10_h_10_21",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "मूर्ति की ऊँचाई कितनी थी?",
       "type": "multipleChoice",
       "options": ["दस फुट", "दो फुट (बस्ट)", "पाँच फुट", "आठ फुट"],
@@ -925,7 +925,7 @@
     },
     {
       "id": "10_h_10_22",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "हालदार साहब को कौन-सी बात कौतुकभरी (हैरानी वाली) लगी?",
       "type": "multipleChoice",
       "options": ["मूर्ति का रंग", "मूर्ति संगमरमर की थी लेकिन चश्मा असली था", "मूर्ति की ऊँचाई", "मूर्ति का स्थान"],
@@ -938,7 +938,7 @@
     },
     {
       "id": "10_h_10_23",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "पानवाले के दाँत कैसे थे?",
       "type": "multipleChoice",
       "options": ["सफ़ेद और चमकदार", "लाल-काले", "पीले", "टूटे हुए"],
@@ -951,7 +951,7 @@
     },
     {
       "id": "10_h_10_24",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन को देखकर हालदार साहब अवाक् क्यों रह गए?",
       "type": "multipleChoice",
       "options": ["क्योंकि वह एक सुंदर युवक था", "क्योंकि वह एक बेहद बूढ़ा, मरियल-सा लंगड़ा आदमी था", "क्योंकि वह फौजी वर्दी में था", "क्योंकि वह बहुत अमीर था"],
@@ -964,7 +964,7 @@
     },
     {
       "id": "10_h_10_25",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "क्या कैप्टन आज़ाद हिंद फ़ौज का भूतपूर्व सिपाही था?",
       "type": "multipleChoice",
       "options": ["हाँ, वह सिपाही था", "नहीं, वह सिपाही नहीं था", "वह सेना का कमांडर था", "कहानी में स्पष्ट नहीं है"],
@@ -977,7 +977,7 @@
     },
     {
       "id": "10_h_10_26",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन के एक हाथ में क्या रहता था?",
       "type": "multipleChoice",
       "options": ["एक छोटी-सी संदूकची", "एक बंदूक", "एक छतरी", "किताबों का झोला"],
@@ -990,7 +990,7 @@
     },
     {
       "id": "10_h_10_27",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन के दूसरे हाथ में क्या रहता था?",
       "type": "multipleChoice",
       "options": ["लाठी", "एक बाँस जिस पर चश्मे टंगे होते थे", "पान का डिब्बा", "रेडियो"],
@@ -1003,7 +1003,7 @@
     },
     {
       "id": "10_h_10_28",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "हालदार साहब पानवाले से कैप्टन के बारे में और क्या जानना चाहते थे?",
       "type": "multipleChoice",
       "options": ["उसका असली नाम", "उसकी उम्र", "उसके परिवार के बारे में", "उसकी दुकान का पता"],
@@ -1016,7 +1016,7 @@
     },
     {
       "id": "10_h_10_29",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "पानवाले ने हालदार साहब के सवालों का जवाब देने से क्यों मना कर दिया?",
       "type": "multipleChoice",
       "options": ["उसे गुस्सा आ गया था", "वह कैप्टन से नफरत करता था", "वह अब इस बारे में और बात नहीं करना चाहता था", "उसे कहीं जाना था"],
@@ -1029,7 +1029,7 @@
     },
     {
       "id": "10_h_10_30",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "हालदार साहब लगभग कितने साल तक मूर्ति पर चश्मे बदलते देखते रहे?",
       "type": "multipleChoice",
       "options": ["एक साल", "दो साल", "पाँच साल", "दस साल"],
@@ -1042,7 +1042,7 @@
     },
     {
       "id": "10_h_10_31",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "एक दिन चौराहे पर मूर्ति की आँखों पर चश्मा क्यों नहीं था?",
       "type": "multipleChoice",
       "options": ["चश्मा चोरी हो गया था", "मूर्तिकार ने चश्मा हटा दिया था", "कैप्टन की मृत्यु हो गई थी", "हालदार साहब ने चश्मा उतार लिया था"],
@@ -1055,7 +1055,7 @@
     },
     {
       "id": "10_h_10_32",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन की मृत्यु की खबर सुनकर हालदार साहब की क्या स्थिति हुई?",
       "type": "multipleChoice",
       "options": ["वे बहुत खुश हुए", "वे बहुत दुखी और निराश हुए", "उन्हें कोई फर्क नहीं पड़ा", "वे गुस्सा हो गए"],
@@ -1068,7 +1068,7 @@
     },
     {
       "id": "10_h_10_33",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन की मृत्यु के बाद हालदार साहब ने क्या निश्चय किया?",
       "type": "multipleChoice",
       "options": ["कस्बे में रुककर मूर्ति को देखेंगे", "चौराहे पर नहीं रुकेंगे और मूर्ति की ओर नहीं देखेंगे", "नया चश्मा लाएंगे", "पानवाले से लड़ेंगे"],
@@ -1081,7 +1081,7 @@
     },
     {
       "id": "10_h_10_34",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "हालदार साहब मूर्ति की तरफ क्यों नहीं देखना चाहते थे?",
       "type": "multipleChoice",
       "options": ["क्योंकि मूर्ति टूट गई थी", "क्योंकि नेताजी की आँखों पर चश्मा नहीं होगा", "क्योंकि उन्हें जल्दी थी", "क्योंकि उन्हें नेताजी पसंद नहीं थे"],
@@ -1094,7 +1094,7 @@
     },
     {
       "id": "10_h_10_35",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "आदत से मजबूर होकर हालदार साहब ने चौराहे पर आते ही क्या किया?",
       "type": "multipleChoice",
       "options": ["आँखें बंद कर लीं", "मूर्ति की तरफ आँखें उठा लीं", "पान खाने लगे", "जीप से कूद गए"],
@@ -1107,7 +1107,7 @@
     },
     {
       "id": "10_h_10_36",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "मूर्ति की तरफ देखने के बाद हालदार साहब ने ज़ोर से क्या चिल्लाया?",
       "type": "multipleChoice",
       "options": ["'तेज़ चलो!'", "'रोको!'", "'पीछे हटो!'", "'जय हिंद!'"],
@@ -1120,7 +1120,7 @@
     },
     {
       "id": "10_h_10_37",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "अंत में नेताजी की मूर्ति पर कैसा चश्मा लगा हुआ था?",
       "type": "multipleChoice",
       "options": ["सोने का चश्मा", "काले प्लास्टिक का चश्मा", "सरकंडे का बना चश्मा", "काँच का चश्मा"],
@@ -1133,7 +1133,7 @@
     },
     {
       "id": "10_h_10_38",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "सरकंडे का चश्मा संभवतः किसने बनाया होगा?",
       "type": "multipleChoice",
       "options": ["पानवाले ने", "किसी गरीब बच्चे ने", "मूर्तिकार ने", "हालदार साहब ने"],
@@ -1146,7 +1146,7 @@
     },
     {
       "id": "10_h_10_39",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "सरकंडे का चश्मा देखकर हालदार साहब की क्या प्रतिक्रिया हुई?",
       "type": "multipleChoice",
       "options": ["वे हँसने लगे", "वे गुस्सा हो गए", "वे भावुक हो गए और उनकी आँखें भर आईं", "वे बिना कुछ कहे चले गए"],
@@ -1159,7 +1159,7 @@
     },
     {
       "id": "10_h_10_40",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "सरकंडे का चश्मा कहानी में क्या प्रतीक है?",
       "type": "multipleChoice",
       "options": ["गरीबी का", "भावी पीढ़ी (बच्चों) में देशभक्ति के जीवित होने का", "कला की कमी का", "मज़ाक का"],
@@ -1172,8 +1172,8 @@
     },
     {
       "id": "10_h_10_41",
-      "chapterName": "नेताजी का चश्मा",
-      "questionText": "कहानी 'नेताजी का चश्मा' मुख्य रूप से किस भावना पर आधारित है?",
+      "chapterName": "Netaji ka Chashma",
+      "questionText": "कहानी 'Netaji ka Chashma' मुख्य रूप से किस भावना पर आधारित है?",
       "type": "multipleChoice",
       "options": ["प्रेम भावना", "देशभक्ति की भावना", "बदले की भावना", "उदासी की भावना"],
       "exactAnswer": "देशभक्ति की भावना",
@@ -1185,7 +1185,7 @@
     },
     {
       "id": "10_h_10_42",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "हालदार साहब जीप से उतरकर मूर्ति के सामने कैसे खड़े हो गए?",
       "type": "multipleChoice",
       "options": ["गुस्से में", "अटेंशन (सावधान) की मुद्रा में", "हाथ जोड़कर", "पीठ दिखाकर"],
@@ -1198,7 +1198,7 @@
     },
     {
       "id": "10_h_10_43",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "पाठ में 'दरकार' शब्द का क्या अर्थ है?",
       "type": "multipleChoice",
       "options": ["ज़रूरत / आवश्यकता", "दरवाज़ा", "दुकान", "दवा"],
@@ -1211,7 +1211,7 @@
     },
     {
       "id": "10_h_10_44",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन के चरित्र से हमें क्या प्रेरणा मिलती है?",
       "type": "multipleChoice",
       "options": ["व्यापार करने की", "देशभक्तों का सम्मान करने की", "कमज़ोर होने की", "झूठ बोलने की"],
@@ -1224,7 +1224,7 @@
     },
     {
       "id": "10_h_10_45",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "नेताजी की मूर्ति को देखकर कौन-से नारे याद आते थे?",
       "type": "multipleChoice",
       "options": ["'इंकलाब ज़िंदाबाद'", "'अंग्रेज़ों भारत छोड़ो'", "'दिल्ली चलो' और 'तुम मुझे खून दो'", "'करो या मरो'"],
@@ -1237,7 +1237,7 @@
     },
     {
       "id": "10_h_10_46",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "कैप्टन को 'देशभक्त' क्यों माना गया है?",
       "type": "multipleChoice",
       "options": ["क्योंकि वह अमीर था", "क्योंकि वह फौज में था", "क्योंकि वह नेताजी की बिना चश्मे वाली मूर्ति से आहत था", "क्योंकि वह पान खाता था"],
@@ -1250,7 +1250,7 @@
     },
     {
       "id": "10_h_10_47",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "पानवाले की आँखों में आँसू क्यों आ गए थे?",
       "type": "multipleChoice",
       "options": ["पान का चूना लगने से", "कैप्टन की मृत्यु को याद करके", "व्यापार में घाटा होने से", "हालदार साहब की डांट से"],
@@ -1263,7 +1263,7 @@
     },
     {
       "id": "10_h_10_48",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "मूर्ति के नीचे मूर्तिकार का क्या नाम लिखा था?",
       "type": "multipleChoice",
       "options": ["मास्टर मोतीलाल", "मास्टर सोहनलाल", "मास्टर दीनदयाल", "मास्टर रामभरोसे"],
@@ -1276,7 +1276,7 @@
     },
     {
       "id": "10_h_10_49",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "हालदार साहब ने किसे 'देशभक्तों का मज़ाक उड़ाने वाली' कौम कहा है?",
       "type": "multipleChoice",
       "options": ["बच्चों को", "उन लोगों को जो देश के लिए त्याग करने वालों पर हँसते हैं", "मूर्तिकारों को", "नगरपालिका को"],
@@ -1289,7 +1289,7 @@
     },
     {
       "id": "10_h_10_50",
-      "chapterName": "नेताजी का चश्मा",
+      "chapterName": "Netaji ka Chashma",
       "questionText": "पाठ के अनुसार, देशभक्ति का प्रदर्शन कौन कर सकता है?",
       "type": "multipleChoice",
       "options": ["केवल सैनिक", "केवल अमीर लोग", "देश का हर नागरिक, चाहे वह बच्चा हो या बूढ़ा", "केवल नेता"],
@@ -1304,7 +1304,7 @@
     {
       "id": "10_h_10_001",
       "chapterName": "Netaji ka Chashma",
-      "questionText": "'नेताजी का चश्मा' पाठ के लेखक कौन हैं?",
+      "questionText": "'Netaji ka Chashma' पाठ के लेखक कौन हैं?",
       "type": "multipleChoice",
       "options": [
         "स्वयं प्रकाश",
@@ -1315,7 +1315,7 @@
       "exactAnswer": "स्वयं प्रकाश",
       "explanationSteps": [
         "Step 1: Identify the author of the given chapter from the class 10 Hindi syllabus.",
-        "Step 2: कक्षा 10 क्षितिज भाग-2 में संकलित कहानी 'नेताजी का चश्मा' के लेखक स्वयं प्रकाश जी हैं।",
+        "Step 2: कक्षा 10 क्षितिज भाग-2 में संकलित कहानी 'Netaji ka Chashma' के लेखक स्वयं प्रकाश जी हैं।",
         "Step 3: Therefore, the correct answer is 'स्वयं प्रकाश'."
       ]
     },
@@ -1880,7 +1880,7 @@
     {
       "id": "10_h_10_033",
       "chapterName": "Netaji ka Chashma",
-      "questionText": "'नेताजी का चश्मा' कहानी का मुख्य भाव या संदेश क्या है?",
+      "questionText": "'Netaji ka Chashma' कहानी का मुख्य भाव या संदेश क्या है?",
       "type": "multipleChoice",
       "options": [
         "नगर पालिका के कार्य का वर्णन",
@@ -2096,7 +2096,7 @@
     {
       "id": "10_h_10_045",
       "chapterName": "Netaji ka Chashma",
-      "questionText": "'नेताजी का चश्मा' पाठ हिंदी गद्य की किस विधा में लिखा गया है?",
+      "questionText": "'Netaji ka Chashma' पाठ हिंदी गद्य की किस विधा में लिखा गया है?",
       "type": "multipleChoice",
       "options": [
         "निबंध",
@@ -2107,7 +2107,7 @@
       "exactAnswer": "कहानी",
       "explanationSteps": [
         "Step 1: Identify the literary form of the chapter.",
-        "Step 2: स्वयं प्रकाश जी द्वारा रचित 'नेताजी का चश्मा' एक मार्मिक और संदेशपूर्ण कहानी है।",
+        "Step 2: स्वयं प्रकाश जी द्वारा रचित 'Netaji ka Chashma' एक मार्मिक और संदेशपूर्ण कहानी है।",
         "Step 3: The exact answer is 'कहानी'."
       ]
     },
@@ -2276,7 +2276,7 @@
     {
       "id": "10_h_10_045",
       "chapterName": "Netaji ka Chashma",
-      "questionText": "'नेताजी का चश्मा' पाठ हिंदी गद्य की किस विधा में लिखा गया है?",
+      "questionText": "'Netaji ka Chashma' पाठ हिंदी गद्य की किस विधा में लिखा गया है?",
       "type": "multipleChoice",
       "options": [
         "निबंध",
@@ -2287,7 +2287,7 @@
       "exactAnswer": "कहानी",
       "explanationSteps": [
         "Step 1: Identify the literary form of the chapter.",
-        "Step 2: स्वयं प्रकाश जी द्वारा रचित 'नेताजी का चश्मा' एक मार्मिक और संदेशपूर्ण कहानी है।",
+        "Step 2: स्वयं प्रकाश जी द्वारा रचित 'Netaji ka Chashma' एक मार्मिक और संदेशपूर्ण कहानी है।",
         "Step 3: The exact answer is 'कहानी'."
       ]
     },
@@ -2384,7 +2384,7 @@
 
       {
         "id": "10_h_netaji_01",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कहानी के अंत में मूर्ति पर सरकंडे का चश्मा रखा होना किस गहन मनोवैज्ञानिक और सामाजिक सत्य को उद्घाटित करता है?",
         "type": "multipleChoice",
         "options": [
@@ -2402,7 +2402,7 @@
       },
       {
         "id": "10_h_netaji_02",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "पानवाले द्वारा कैप्टन को 'पागल' कहना, तत्कालीन समाज की किस विडंबना की ओर तीखा व्यंग्य है?",
         "type": "multipleChoice",
         "options": [
@@ -2420,7 +2420,7 @@
       },
       {
         "id": "10_h_netaji_03",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "हालदार साहब का यह सोचना कि 'क्या होगा उस कौम का जो अपने देश की खातिर... बिकने के मौके ढूँढ़ती है', किस गहरे अंतर्द्वंद्व को दर्शाता है?",
         "type": "multipleChoice",
         "options": [
@@ -2438,7 +2438,7 @@
       },
       {
         "id": "10_h_netaji_04",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "मूर्ति के निर्माण में 'मास्टर मोतीलाल' के संदर्भ का प्रयोग लेखक ने व्यवस्था की किस खामी को उजागर करने के लिए किया है?",
         "type": "multipleChoice",
         "options": [
@@ -2456,7 +2456,7 @@
       },
       {
         "id": "10_h_netaji_05",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "संगमरमर की मूर्ति पर 'रियल' चश्मे का होना कहानी में किस बात का प्रतीकात्मक प्रतिनिधित्व करता है?",
         "type": "multipleChoice",
         "options": [
@@ -2474,7 +2474,7 @@
       },
       {
         "id": "10_h_netaji_06",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कैप्टन की मृत्यु का समाचार देते समय पानवाले की आँखों का डबडबा जाना उसके चरित्र के किस अप्रत्याशित पहलू को सामने लाता है?",
         "type": "multipleChoice",
         "options": [
@@ -2492,7 +2492,7 @@
       },
       {
         "id": "10_h_netaji_07",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "'कस्बे की हृदयस्थली' शब्द का प्रयोग चौराहे के लिए क्यों किया गया है, और इसका कहानी के मुख्य विषय से क्या वैचारिक संबंध है?",
         "type": "multipleChoice",
         "options": [
@@ -2510,7 +2510,7 @@
       },
       {
         "id": "10_h_netaji_08",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "हालदार साहब का 'अटेंशन' में खड़ा होना उनके किस आंतरिक परिवर्तन का सूचक है?",
         "type": "multipleChoice",
         "options": [
@@ -2528,7 +2528,7 @@
       },
       {
         "id": "10_h_netaji_09",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "चश्मे वाले को लोग 'कैप्टन' क्यों कहते थे, जबकि वह न तो फौज में था और न ही नेताजी का साथी? इसके पीछे क्या निहितार्थ है?",
         "type": "multipleChoice",
         "options": [
@@ -2546,7 +2546,7 @@
       },
       {
         "id": "10_h_netaji_10",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "लेखक ने कैप्टन के संवादों को कहानी में सीधे तौर पर शामिल क्यों नहीं किया? यह मौन किस साहित्यिक प्रभाव को जन्म देता है?",
         "type": "multipleChoice",
         "options": [
@@ -2564,7 +2564,7 @@
       },
       {
         "id": "10_h_netaji_11",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "मूर्ति का संगमरमर का होना और चश्मे का वास्तविक होना—यह विरोधाभास किस वैचारिक द्वंद्व को प्रस्तुत करता है?",
         "type": "multipleChoice",
         "options": [
@@ -2582,7 +2582,7 @@
       },
       {
         "id": "10_h_netaji_12",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "'कौतुकभरी मुस्कान' में 'कौतुक' शब्द हालदार साहब की किस प्रारंभिक मनोदशा को इंगित करता है?",
         "type": "multipleChoice",
         "options": [
@@ -2600,7 +2600,7 @@
       },
       {
         "id": "10_h_netaji_13",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कैप्टन द्वारा नेताजी की मूर्ति से चश्मा उतारकर ग्राहक को देना और मूर्ति पर नया चश्मा लगाना, उसके चरित्र की किस जटिलता को दर्शाता है?",
         "type": "multipleChoice",
         "options": [
@@ -2618,7 +2618,7 @@
       },
       {
         "id": "10_h_netaji_14",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "हालदार साहब का चौराहे पर रुकने से मना करना (कैप्टन की मृत्यु के बाद) किस मनोवैज्ञानिक बचाव तंत्र (Defense Mechanism) का उदाहरण है?",
         "type": "multipleChoice",
         "options": [
@@ -2636,7 +2636,7 @@
       },
       {
         "id": "10_h_netaji_15",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कहानी में 'गिराहक' (ग्राहक) शब्द का स्थानीय उच्चारण किस साहित्यिक उद्देश्य की पूर्ति करता है?",
         "type": "multipleChoice",
         "options": [
@@ -2654,7 +2654,7 @@
       },
       {
         "id": "10_h_netaji_16",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "'ड्राइवर ने ज़ोर से ब्रेक मारे... रास्ता चलते लोग देखने लगे' - यह दृश्य कहानी में किस तरह का वातावरण उत्पन्न करता है?",
         "type": "multipleChoice",
         "options": [
@@ -2672,7 +2672,7 @@
       },
       {
         "id": "10_h_netaji_17",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "नेताजी की 'बस्ट' (छाती तक) मूर्ति ही क्यों बनवाई गई? इसके पीछे निहित व्यवस्थागत व्यंग्य क्या है?",
         "type": "multipleChoice",
         "options": [
@@ -2690,7 +2690,7 @@
       },
       {
         "id": "10_h_netaji_18",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "'हालदार साहब आदत से मजबूर थे।' उनकी यह आदत किस बात की ओर संकेत करती है?",
         "type": "multipleChoice",
         "options": [
@@ -2708,7 +2708,7 @@
       },
       {
         "id": "10_h_netaji_19",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कहानी के संदर्भ में 'दरकार' शब्द का उचित अर्थ क्या है?",
         "type": "multipleChoice",
         "options": [
@@ -2726,7 +2726,7 @@
       },
       {
         "id": "10_h_netaji_20",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "पानवाले का 'काला, मोटा और खुशमिज़ाज' होना और फिर कैप्टन की मृत्यु पर उसका रोना—यह चरित्र-चित्रण किस साहित्यिक सिद्धांत को पुष्ट करता है?",
         "type": "multipleChoice",
         "options": [
@@ -2744,7 +2744,7 @@
       },
       {
         "id": "10_h_netaji_21",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "स्वयं प्रकाश द्वारा रचित इस कहानी का मूल स्वर (Tone) क्या है?",
         "type": "multipleChoice",
         "options": [
@@ -2762,7 +2762,7 @@
       },
       {
         "id": "10_h_netaji_22",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "'कैप्टन' की दुकान का कोई फ्रेम न होना (वह एक बाँस पर चश्मे लटकाए घूमता था), उसकी किस स्थिति का प्रतीक है?",
         "type": "multipleChoice",
         "options": [
@@ -2780,7 +2780,7 @@
       },
       {
         "id": "10_h_netaji_23",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "नेताजी सुभाष चंद्र बोस के किन नारों को कहानी में परोक्ष या प्रत्यक्ष रूप से संदर्भित किया गया है, जो पाठकों में ऊर्जा का संचार करते हैं?",
         "type": "multipleChoice",
         "options": [
@@ -2798,7 +2798,7 @@
       },
       {
         "id": "10_h_netaji_24",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "'नगरपालिका थी तो कुछ-न-कुछ करती भी रहती थी' – इस पंक्ति में निहित व्यंग्य का मुख्य लक्ष्य क्या है?",
         "type": "multipleChoice",
         "options": [
@@ -2816,7 +2816,7 @@
       },
       {
         "id": "10_h_netaji_25",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "हालदार साहब बार-बार यह क्यों सोचते थे कि कैप्टन शायद नेताजी का साथी या आज़ाद हिंद फ़ौज का भूतपूर्व सिपाही होगा?",
         "type": "multipleChoice",
         "options": [
@@ -2834,7 +2834,7 @@
       },
       {
         "id": "10_h_netaji_26",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "पानवाले द्वारा अपनी धोती के सिरे से आँसू पोंछने का दृश्य किस भाव की प्रबलता को प्रमाणित करता है?",
         "type": "multipleChoice",
         "options": [
@@ -2852,7 +2852,7 @@
       },
       {
         "id": "10_h_netaji_27",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कहानी के अनुसार 'मूर्ति निर्माण' में सबसे बड़ी बाधा (अड़चन) क्या थी?",
         "type": "multipleChoice",
         "options": [
@@ -2870,7 +2870,7 @@
       },
       {
         "id": "10_h_netaji_28",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "'कस्बा' शब्द से लेखक किस प्रकार की जनसांख्यिकीय और सांस्कृतिक पृष्ठभूमि का बोध कराना चाहता है?",
         "type": "multipleChoice",
         "options": [
@@ -2888,7 +2888,7 @@
       },
       {
         "id": "10_h_netaji_29",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "नेताजी की बिना चश्मे वाली मूर्ति हालदार साहब को क्यों आहत करती थी?",
         "type": "multipleChoice",
         "options": [
@@ -2906,7 +2906,7 @@
       },
       {
         "id": "10_h_netaji_30",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "मास्टर मोतीलाल द्वारा मूर्ति को 'महीने भर में पटक देने' का वादा किस प्रशासनिक विकृति को उजागर करता है?",
         "type": "multipleChoice",
         "options": [
@@ -2924,7 +2924,7 @@
       },
       {
         "id": "10_h_netaji_31",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कहानी में 'सरकंडा' (Reed) किस बात का बिंब (Image) है?",
         "type": "multipleChoice",
         "options": [
@@ -2942,7 +2942,7 @@
       },
       {
         "id": "10_h_netaji_32",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "पानवाले का चरित्र समाज के किस वर्ग का प्रतिनिधित्व करता है?",
         "type": "multipleChoice",
         "options": [
@@ -2960,7 +2960,7 @@
       },
       {
         "id": "10_h_netaji_33",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "हालदार साहब जब यह पूछते हैं कि 'क्या कैप्टन चश्मेवाला नेताजी का साथी है?', तो पानवाला मुस्कराते हुए उत्तर देता है। यह मुस्कान किस भावना से उपजी थी?",
         "type": "multipleChoice",
         "options": [
@@ -2978,7 +2978,7 @@
       },
       {
         "id": "10_h_netaji_34",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "लेखक ने नेताजी की मूर्ति का वर्णन करते समय 'मासूम और कमसिन' विशेषणों का प्रयोग क्यों किया है?",
         "type": "multipleChoice",
         "options": [
@@ -2996,7 +2996,7 @@
       },
       {
         "id": "10_h_netaji_35",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कहानी के अनुसार देशभक्ति (देशप्रेम) का वास्तविक स्वरूप क्या है?",
         "type": "multipleChoice",
         "options": [
@@ -3014,7 +3014,7 @@
       },
       {
         "id": "10_h_netaji_36",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "हालदार साहब का चरित्र पाठकों को किस दृष्टि से प्रभावित करता है?",
         "type": "multipleChoice",
         "options": [
@@ -3032,7 +3032,7 @@
       },
       {
         "id": "10_h_netaji_37",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "जब पानवाले ने कैप्टन का उपहास किया, तो हालदार साहब को 'अच्छा नहीं लगा'। यहाँ 'अच्छा न लगना' किस गहरी नैतिक आपत्ति का परिचायक है?",
         "type": "multipleChoice",
         "options": [
@@ -3050,7 +3050,7 @@
       },
       {
         "id": "10_h_netaji_38",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "'कस्बे में एक... लड़कों का स्कूल, एक लड़कियों का स्कूल, एक सीमेंट का छोटा-सा कारखाना...' यह विस्तृत विवरण देने का मुख्य उद्देश्य क्या है?",
         "type": "multipleChoice",
         "options": [
@@ -3068,7 +3068,7 @@
       },
       {
         "id": "10_h_netaji_39",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कैप्टन को देखते ही हालदार साहब 'अवाक्' (Speechless) क्यों रह गए?",
         "type": "multipleChoice",
         "options": [
@@ -3086,7 +3086,7 @@
       },
       {
         "id": "10_h_netaji_40",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "'आंखें भर आना' मुहावरे का कहानी के अंत में क्या मनोवैज्ञानिक महत्व है?",
         "type": "multipleChoice",
         "options": [
@@ -3104,7 +3104,7 @@
       },
       {
         "id": "10_h_netaji_41",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "मास्टर मोतीलाल द्वारा नेताजी की मूर्ति बनाना किस विडंबना (Irony) को प्रस्तुत करता है?",
         "type": "multipleChoice",
         "options": [
@@ -3122,8 +3122,8 @@
       },
       {
         "id": "10_h_netaji_42",
-        "chapterName": "नेताजी का चश्मा",
-        "questionText": "'नेताजी का चश्मा' कहानी में 'चश्मा' शब्द किसका मुख्य रूपक (Metaphor) है?",
+        "chapterName": "Netaji ka Chashma",
+        "questionText": "'Netaji ka Chashma' कहानी में 'चश्मा' शब्द किसका मुख्य रूपक (Metaphor) है?",
         "type": "multipleChoice",
         "options": [
           "यह केवल एक भौतिक वस्तु का रूपक है जिसका उपयोग धूप से बचने के लिए होता है।",
@@ -3140,7 +3140,7 @@
       },
       {
         "id": "10_h_netaji_43",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "पानवाले द्वारा बात-बात में पान थूकना उसके किस स्वभाव को रूपायित करता है?",
         "type": "multipleChoice",
         "options": [
@@ -3158,7 +3158,7 @@
       },
       {
         "id": "10_h_netaji_44",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "हालदार साहब का यह सोचना कि 'बार-बार सोचते, क्या होगा उस कौम का...'—यहाँ 'कौम' (Qaum) शब्द से लेखक का क्या आशय है?",
         "type": "multipleChoice",
         "options": [
@@ -3176,7 +3176,7 @@
       },
       {
         "id": "10_h_netaji_45",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "'नेताजी की मूर्ति को देखकर ऐसा लगता था जैसे वे अभी बोल पड़ेंगे'—यह कथन मूर्ति की किस विशेषता को उद्घाटित करता है?",
         "type": "multipleChoice",
         "options": [
@@ -3194,7 +3194,7 @@
       },
       {
         "id": "10_h_netaji_46",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कहानी में 'एक बार फिर... एक बार फिर...' का प्रयोग (जब हालदार साहब हर पंद्रह दिन में वहाँ से गुज़रते हैं) कहानी में कौन-सा तत्व जोड़ता है?",
         "type": "multipleChoice",
         "options": [
@@ -3212,7 +3212,7 @@
       },
       {
         "id": "10_h_netaji_47",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कैप्टन का मूर्ति के पास जाकर ग्राहक से 'गिड़गिड़ाना' (माफी मांगना और फ्रेम बदलना) उसके किस अंतर्द्वंद्व का परिणाम था?",
         "type": "multipleChoice",
         "options": [
@@ -3230,7 +3230,7 @@
       },
       {
         "id": "10_h_netaji_48",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "कस्बे के चौराहे पर 'नेताजी की मूर्ति' स्थापित करने के पीछे नगरपालिका का मूल उद्देश्य क्या रहा होगा (लेखक के व्यंग्यात्मक दृष्टिकोण से)?",
         "type": "multipleChoice",
         "options": [
@@ -3248,7 +3248,7 @@
       },
       {
         "id": "10_h_netaji_49",
-        "chapterName": "नेताजी का चश्मा",
+        "chapterName": "Netaji ka Chashma",
         "questionText": "हालदार साहब का यह कथन, 'नहीं, अब नहीं रुकना, काम बहुत है...' उनके व्यक्तित्व में आए किस अस्थायी परिवर्तन को दर्शाता है?",
         "type": "multipleChoice",
         "options": [
@@ -3266,8 +3266,8 @@
       },
       {
         "id": "10_h_netaji_50",
-        "chapterName": "नेताजी का चश्मा",
-        "questionText": "कहानी 'नेताजी का चश्मा' का अंत किस दार्शनिक विचार पर आकर ठहरता है?",
+        "chapterName": "Netaji ka Chashma",
+        "questionText": "कहानी 'Netaji ka Chashma' का अंत किस दार्शनिक विचार पर आकर ठहरता है?",
         "type": "multipleChoice",
         "options": [
           "निराशावाद—कि समाज पूरी तरह भ्रष्ट हो चुका है और आदर्शों के लिए अब कोई जगह नहीं है।",
