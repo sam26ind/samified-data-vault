@@ -1,0 +1,10 @@
+[{
+  "relation": ["delegate_permission/common.handle_all_urls"],
+  "target": {
+    "namespace": "android_app",
+    "package_name": "com.samifiedX.math10",
+    "sha256_cert_fingerprints": [
+      "89:D1:1B:B3:D6:81:F9:6E:49:D6:09:CF:11:DB:77:F5:B6:6D:48:8F:DE:78:69:89:82:CC:CF:ED:C8:F1:E2:38"
+    ]
+  }
+}]
