@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Samified X - Incoming Transmission</title>
+    <script>
+        window.onload = function() {
+            // 1. Extract the Mission ID from the URL
+            const urlParams = new URLSearchParams(window.location.search);
+            const questionId = urlParams.get('id');
+
+            if (questionId) {
+                // 2. Force the phone to trigger the native app deep link
+                window.location.replace("samifiedx://question?id=" + questionId);
+
+                // 3. Fallback: If the app doesn't open after 2.5 seconds, send them to the Play Store
+                setTimeout(function() {
+                    window.location.replace("https://play.google.com/store/apps/details?id=com.samifiedX.math10");
+                }, 2500);
+            } else {
+                // No ID found? Just go straight to the Play Store
+                window.location.replace("https://play.google.com/store/apps/details?id=com.samifiedX.math10");
+            }
+        };
+    </script>
+    <style>
+        body { 
+            background-color: #111827; 
+            color: #38BDF8; 
+            font-family: 'Courier New', Courier, monospace; 
+            text-align: center; 
+            padding-top: 20%; 
+        }
+        h2 { letter-spacing: 2px; }
+        p { color: #9CA3AF; }
+        .spinner {
+            width: 50px; height: 50px;
+            border: 5px solid #1F2937;
+            border-top: 5px solid #38BDF8;
+            border-radius: 50%;
+            animation: spin 1s linear infinite;
+            margin: 0 auto 20px auto;
+        }
+        @keyframes spin { 0% { transform: rotate(0deg); } 100% { transform: rotate(360deg); } }
+    </style>
+</head>
+<body>
+    <div class="spinner"></div>
+    <h2>DECRYPTING TRANSMISSION...</h2>
+    <p>Rerouting to Samified X. If the app is not installed, you will be redirected to the Play Store.</p>
+</body>
+</html>
